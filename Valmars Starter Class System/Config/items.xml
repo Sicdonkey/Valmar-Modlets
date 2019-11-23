@@ -1,6 +1,4 @@
 <Valmar>
-<remove xpath="/items/item[@name='gunTacticalAR']/property[@name='CustomIcon']"/>
-<remove xpath="/items/item[@name='gunTacticalAR']/property[@name='CreativeMode']"/>
 <append xpath="/items">
 <item name="classKey">
 		<property name="Extends" value="resourceLockPick"/>
