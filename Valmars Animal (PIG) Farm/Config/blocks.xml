@@ -62,7 +62,7 @@
   </block>
   
   <block name="BossGrace Trough">
-	<property name="CustomIcon" value="sleeperGraceAnimal" />
+	<property name="CustomIcon" value="sleeperBoarAnimal" />
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
@@ -72,7 +72,7 @@
   </block>
   
   	<block name="Bear Trough">
-	<property name="CustomIcon" value="sleeperZombieBearAnimal" />
+	<property name="CustomIcon" value="sleeperBearAnimal" />
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
@@ -132,7 +132,7 @@
   </block>
     
   	<block name="ZombieDog Trough">
-	<property name="CustomIcon" value="sleeperZombieDogAnimal" />
+	<property name="CustomIcon" value="sleeperWolfAnimal" />
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>

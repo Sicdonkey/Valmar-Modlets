@@ -158,6 +158,10 @@
         <ingredient name="bowlMurkyWater" count="1"/>
 		<ingredient name="bowl" count="1" />
     </recipe>
+	   <recipe name="bowlMurkyWater" count="1" scrapable="False" craft_area="campfire" craft_tool="toolCookingPot" >
+        <ingredient name="drinkJarBoiledWater" count="1"/>
+		<ingredient name="bowl" count="1" />
+    </recipe>
     <recipe name="soupMushroom" count="1" scrapable="False" craft_area="campfire" craft_tool="toolCookingPot" >
         <ingredient name="drinkJarBoiledWater" count="1"/>
     <ingredient name="foodCropMushrooms" count="3" />

@@ -375,7 +375,7 @@
   </block>
     
   <block name="LeurreAnimal1">
-  <property name="CustomIcon" value="sleeperZombieDogAnimal" />
+  <property name="CustomIcon" value="sleeperWolfAnimal" />
     <property name="Class" value="UpgradeRated" />
     <property name="UpgradeRated.ToBlock" value="LeurreAnimal1" />
     <property name="UpgradeRated.Rate" value="5" />
@@ -388,7 +388,7 @@
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreAnimal2">
-  <property name="CustomIcon" value="sleeperZombieDogAnimal" />
+  <property name="CustomIcon" value="sleeperWolfAnimal" />
     <property name="Class" value="UpgradeRated" />
     <property name="UpgradeRated.ToBlock" value="LeurreAnimal2" />
     <property name="UpgradeRated.Rate" value="5" />

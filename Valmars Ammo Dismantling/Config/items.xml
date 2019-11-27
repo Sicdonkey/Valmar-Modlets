@@ -430,7 +430,7 @@
 <!-- Rocket Launcher -->
 <item name="dismantleRocketFrag">
     <property name="Extends" value="questMaster" />
-    <property name="CustomIcon" value="ammoRocketFrag" />
+    <property name="CustomIcon" value="ammoRocketHE" />
 	<property name="CustomIconTint" value="ff8080"/>
     <property name="DescriptionKey" value="dismantleammo"/>
     <property class="Action0">
