@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 bowlDesc,items,Item Food,,Use clay bowls for cooking stews and other various foods.,,
 bowl,items,Item Food,,Clay Bowl,,
 bowlMurkyDesc,items,Item Food,,This bowl is full of murky water. Boil it or use purification tablets to clean it.,,

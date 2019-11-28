@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 IronCrossbow,items,Item Gun,,Iron Crossbow,,
 IronCrossbowDesc,items,Item Gun,,"This crossbow deals more damage, has further range and improved durability than a normal crossbow.",,
 ironBow,items,Item Gun,,Iron Bow,,

@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 dismantleammo,items,Item Gun,,"Dismantle your ammo down into its base components.",,
 dismantle9mmBall,items,Item Gun,,"Dismantle - 9MM Ball Bullets.",,
 dismantle9mmBallBundle,items,Item Gun,,Dismantle - 9mm Bundle,,

@@ -1,3 +1,4 @@
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 sprayPaint,items,Item,,Spray Paint,,
 sprayPaintDesc,items,Item,,This can be useful at a Dye Station for coloring metallic armors.,,
 assortedDyes,items,Item,,Assorted Dyes,,

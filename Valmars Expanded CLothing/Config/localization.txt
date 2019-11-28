@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 pimpHat,items,Item Clothes,,Funtime Pimp Hat,,
 ballcapDark,items,Item Clothes,,Dark Ballcap,,
 ballcapGreen,items,Item Clothes,,Green Ballcap,,

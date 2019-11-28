@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 trapFire,blocks,Traps,,Fire Trap,,
 trapFireDesc,blocks,Traps,,This trap sets whatever walks over it on fire. When it goes out you can refill it using gasoline.,,
 trapAdhesive,blocks,Traps,,Adhesive Trap,,

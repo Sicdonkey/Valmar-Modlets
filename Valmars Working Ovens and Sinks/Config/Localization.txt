@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English
+Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
 workstationOven,blocks,Block Building,,Working Oven,,
 workstationOvenDesc,blocks,Block Building,,This working oven can be used to cook many different recipes without using a fuel source.,,
 WorkingSinkDesc,blocks,Block Building,,This working can be used as a source of clean water. Fill your jars with water by left-clicking with them.,,
