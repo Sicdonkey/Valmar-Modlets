@@ -3,12 +3,14 @@
     <!-- Expanded Player Storage -->
     <block name="cntEPSMunitionsBox">
         <property name="Extends" value="cntMunitionsBox" />
+		<property name="DescriptionKey" value="cntEPSMunitionsBoxDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntMunitionsBox" />
         <property name="LootList" value="414" />
     </block>
     <block name="cntEPSLockers">
         <property name="Extends" value="cntLockersTallClosed" />
+		<property name="DescriptionKey" value="cntEPSLockersDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntLockersTallClosed" />
         <property name="Place" value="TowardsPlacerInverted" />
@@ -17,6 +19,7 @@
     </block>
     <block name="cntEPSFileCabinet">
         <property name="Extends" value="cntFileCabinetTallClosed" />
+		<property name="DescriptionKey" value="cntEPSFileCabinetDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntFileCabinetTallClosed" />
         <property name="LootList" value="416" />
@@ -35,6 +38,7 @@
     </block>
     <block name="cntEPSFridge">
         <property name="Extends" value="cntFridgeStainlessSteel" />
+		<property name="DescriptionKey" value="cntEPSFridgeDesc"/>
         <property name="CustomIcon" value="cntFridgeStainlessSteel" />
         <property name="Class" value="SecureLoot" />
         <property name="LootList" value="419" />
@@ -42,6 +46,7 @@
     </block>
     <block name="cntEPSRetroFridge">
         <property name="Extends" value="cntRetroFridgeVer1Closed" />
+		<property name="DescriptionKey" value="cntEPSRetroFridgeDesc"/>
         <property name="CustomIcon" value="cntRetroFridgeVer1Closed" />
         <property name="Class" value="SecureLoot" />
         <property name="LootList" value="415" />
@@ -50,6 +55,7 @@
     </block>
     <block name="cntEPSPillCase">
         <property name="Extends" value="cntPillCase" />
+		<property name="DescriptionKey" value="cntEPSPillCaseDesc"/>
         <property name="CustomIcon" value="cntPillCase" />
         <property name="Class" value="SecureLoot" />
         <property name="LootList" value="413" />
@@ -57,6 +63,7 @@
     </block>
     <block name="cntEPSBeerCooler">
         <property name="Extends" value="cntBeerCooler" />
+		<property name="DescriptionKey" value="cntEPSBeerCoolerDesc"/>
         <property name="CustomIcon" value="cntBeerCooler" />
         <property name="Class" value="SecureLoot" />
         <property name="Place" value="TowardsPlacerInverted" />
@@ -65,6 +72,7 @@
     </block>
     <block name="cntEPSMedicineCabinet">
         <property name="Extends" value="cntMedicineCabinetClosed" />
+		<property name="DescriptionKey" value="cntEPSMedicineCabinetDesc"/>
         <property name="CustomIcon" value="cntMedicineCabinetClosed" />
         <property name="Class" value="SecureLoot" />
         <property name="LootList" value="413" />
@@ -72,6 +80,7 @@
     </block>
     <block name="cntEPSBookcase">
         <property name="Extends" value="cntBookcaseFull" />
+		<property name="DescriptionKey" value="cntEPSBookcaseDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntBookcaseFull" />
         <property name="Place" value="TowardsPlacerInverted" />
@@ -80,6 +89,7 @@
     </block>
     <block name="cntEPSWallSafe">
         <property name="Extends" value="cntWallSafe" />
+		<property name="DescriptionKey" value="cntEPSWallSafeDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntWallSafe" />
         <property name="Place" value="TowardsPlacerInverted" />
@@ -88,6 +98,7 @@
     </block>
     <block name="cntEPSCoffin">
         <property name="Extends" value="cntCoffin" />
+		<property name="DescriptionKey" value="cntEPSCoffinDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntCoffin" />
         <property name="LootList" value="415" />
@@ -95,6 +106,7 @@
     </block>
     <block name="cntEPSGasPump">
     <property name="CustomIcon" value="cntGasPump" />
+	<property name="DescriptionKey" value="cntEPSGasPumpDesc"/>
     <property name="Class" value="SecureLoot" />
     <property name="LootList" value="414" />
     <property name="Material" value="Mmetal_thin" />

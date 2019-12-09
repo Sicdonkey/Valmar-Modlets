@@ -1,4 +1,4 @@
-<stallionsden>
+<Valmar>
 <append xpath="/items">
  <item name="Clingwrap">
 		<property name="DescriptionKey" value="ClingwrapDesc"/>
@@ -46,4 +46,4 @@
 		<property name="Group" value="Food/Cooking" />
 	</item>
 </append>	  
-</stallionsden>
+</Valmar>

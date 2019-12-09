@@ -1,4 +1,4 @@
-<stallionsden>
+<Valmar>
 <append xpath="/lootcontainers/lootgroup[@name='cupboard']">	
 		<item name="Clingwrap" count="25" />
 </append>
@@ -11,4 +11,4 @@
 <append xpath="/lootcontainers/lootgroup[@name='backpacks/survival']">	
 		<item name="Clingwrap" count="25" />
 </append>
-</stallionsden>
+</Valmar>

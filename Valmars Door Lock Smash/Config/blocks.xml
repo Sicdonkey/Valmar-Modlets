@@ -18,7 +18,7 @@
 	<append xpath="/blocks/block[@name='houseFrontDoor2_v1']">
 	 <property name="DowngradeBlock" value="Broken Door" />
 	</append>
-	  
+		  
  <append xpath="/blocks">
     <!-- DoorBuster -->
 <block name="Busted Commercial Door"><!-- 1164-->

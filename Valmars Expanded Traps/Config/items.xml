@@ -3,6 +3,7 @@
 <item name="gunTrapNailgun"> <!-- T3 Tools -->
 	<property name="CustomIcon" value="gunToolNailgun"/>
 	<property name="CustomIconTint" value="4040ff"/>
+	<property name="DescriptionKey" value="gunTrapNailgunDesc"/>
 	<property name="Tags" value="tool,nailgun,sideAttachments,selfLoading,canHaveCosmetic"/>
 	<property name="DisplayType" value="meleeRepairTool"/>
 	<property name="HoldType" value="37"/>
@@ -61,6 +62,7 @@
 <item name="trapGasCan">
 	<property name="CustomIcon" value="ammoGasCan"/>
 	<property name="CustomIconTint" value="4040ff"/>
+	<property name="DescriptionKey" value="trapGasCanDesc"/>
 	<property name="Tags" value="gasoline"/>
 	<property name="HoldType" value="45"/>
 	<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>

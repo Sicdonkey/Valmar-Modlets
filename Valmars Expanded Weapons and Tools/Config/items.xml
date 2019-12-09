@@ -4,6 +4,7 @@
        <property name="Tags" value="weapon,ranged,holdBreathAiming,reloadPenalty,sideAttachments,smallTopAttachments,mediumTopAttachments,attAgility,perkArchery,canHaveCosmetic"/>
 	<property name="DisplayType" value="rangedBow"/>
 	<property name="HoldType" value="26"/>
+	<property name="DescriptionKey" value="IronCrossbowDesc"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/Crossbow/crossbowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="4"/>
 	<property name="RepairTools" value="resourceRepairKit"/>
@@ -84,6 +85,7 @@
     <item name="ironBow">
     <property name="Tags" value="weapon,ranged,bowDrawPenalty,archery,bow,attAgility,perkArchery,canHaveCosmetic"/>
 	<property name="DisplayType" value="rangedBow"/>
+	<property name="DescriptionKey" value="ironBowDesc"/>
 	<property name="HoldType" value="53"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Ranged/Bows/CompoundBow/CompoundBowPrefab.prefab"/>
 	<property name="Material" value="MBowCrossbowParts"/> <property name="Weight" value="6"/>
@@ -168,6 +170,7 @@
     </item>
     <item name="combatAxe">
         <property name="CustomIcon" value="combatAxe" />
+		<property name="DescriptionKey" value="combatAxeDesc"/>
         <property name="Extends" value="meleeToolFireaxeIron"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Axe/fireaxePrefab.prefab"/>
 	<property name="EconomicValue" value="700"/>

@@ -42,6 +42,7 @@
 	
 	<item name="ArmoryWorkbenchSchematic">
 	<property name="Extends" value="schematicNoQualityMaster"/>
+	 <property name="DescriptionKey" value="ArmoryWorkbenchSchematicDesc"/>
 	<property name="CreativeMode" value="Player"/>
 	<property name="CustomIcon" value="ArmoryWorkBench"/>
 	<property name="Unlocks" value="ArmoryWorkBench"/>

@@ -3,6 +3,7 @@
 	<block name="ArmoryWorkBench">
 	<property name="Class" value="Workstation"/>
 	<property name="Material" value="Mwood"/>
+	<property name="DescriptionKey" value="ArmoryWorkBenchDesc"/>
 	<property name="MaxDamage" value="800"/>
 	<property name="StabilitySupport" value="false"/>
 	<property name="Shape" value="ModelEntity"/>
