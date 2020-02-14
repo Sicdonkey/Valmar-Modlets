@@ -6,10 +6,10 @@
         <property name="CustomIcon" value="Class - Hunter" />
 		<property name="DescriptionKey" value="Class - Hunter (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -24,11 +24,11 @@
     <block name="Class - Hunter">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		 <property name="Material" value="Mwood" />
+		 <property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="400" />
         <drop event="Destroy" count="0" />
@@ -40,10 +40,10 @@
         <property name="Group" value="Class System" />
 		<property name="DescriptionKey" value="Class - Builder (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -58,11 +58,11 @@
     <block name="Class - Builder">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		<property name="Material" value="Mwood" />
+		<property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="401" />
         <drop event="Destroy" count="0" />
@@ -74,10 +74,10 @@
         <property name="CustomIcon" value="Class - Rifleman" />
 		<property name="DescriptionKey" value="Class - Rifleman (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -92,11 +92,11 @@
     <block name="Class - Rifleman">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		 <property name="Material" value="Mwood" />
+		 <property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="402" />
         <drop event="Destroy" count="0" />
@@ -108,10 +108,10 @@
         <property name="CustomIcon" value="Class - Gunman" />
 		<property name="DescriptionKey" value="Class - Gunman (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -126,11 +126,11 @@
     <block name="Class - Gunman">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		<property name="Material" value="Mwood" />
+		<property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="403" />
         <drop event="Destroy" count="0" />
@@ -142,10 +142,10 @@
         <property name="CustomIcon" value="Class - Veteran" />
 		<property name="DescriptionKey" value="Class - Veteran (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -160,11 +160,11 @@
     <block name="Class - Veteran">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-        <property name="Material" value="Mwood" />
+        <property name="Material" value="Mcloth" />
 		<!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="404" />
         <drop event="Destroy" count="0" />
@@ -176,10 +176,10 @@
         <property name="CustomIcon" value="Class - Bruiser" />
 		<property name="DescriptionKey" value="Class - Bruiser (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -194,11 +194,11 @@
     <block name="Class - Bruiser">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-        <property name="Material" value="Mwood" />
+        <property name="Material" value="Mcloth" />
 		 <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="405" />
         <drop event="Destroy" count="0" />
@@ -210,10 +210,10 @@
         <property name="Group" value="Class System" />
 		<property name="DescriptionKey" value="Class - Miner (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -228,11 +228,11 @@
     <block name="Class - Miner">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		 <property name="Material" value="Mwood" />
+		 <property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="406" />
         <drop event="Destroy" count="0" />
@@ -244,10 +244,10 @@
         <property name="Group" value="Class System" />
 		<property name="DescriptionKey" value="Class - Survivor (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -262,11 +262,11 @@
     <block name="Class - Survivor">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		  <property name="Material" value="Mwood" />
+		  <property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="407" />
         <drop event="Destroy" count="0" />
@@ -278,10 +278,10 @@
         <property name="Group" value="Class System" />
 		<property name="DescriptionKey" value="Class - Medic (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -296,11 +296,11 @@
     <block name="Class - Medic">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		 <property name="Material" value="Mwood" />
+		 <property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="408" />
         <drop event="Destroy" count="0" />
@@ -312,10 +312,10 @@
         <property name="CustomIcon" value="Class - Mechanic" />
 		<property name="DescriptionKey" value="Class - Mechanic (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -330,11 +330,11 @@
     <block name="Class - Mechanic">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		<property name="Material" value="Mwood" />
+		<property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="409" />
         <drop event="Destroy" count="0" />
@@ -346,10 +346,10 @@
         <property name="CustomIcon" value="Class - Engineer" />
 		<property name="DescriptionKey" value="Class - Engineer (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -364,11 +364,11 @@
     <block name="Class - Engineer">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		 <property name="Material" value="Mwood" />
+		 <property name="Material" value="Mcloth" />
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="410" />
         <drop event="Destroy" count="0" />
@@ -380,10 +380,10 @@
         <property name="CustomIcon" value="Class - Farmer" />
 		<property name="DescriptionKey" value="Class - Farmer (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Material" value="Mwood" />
-        <property name="Shape" value="Ext3dModel" />
+        <property name="Material" value="Mcloth" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <drop event="Destroy" count="0" prob="1" />
         <property name="CanPickup" value="true" />
@@ -398,12 +398,12 @@
     <block name="Class - Farmer">
         <property name="Class" value="Loot" />
         <property name="Group" value="Survival" />
-		<property name="Material" value="Mwood" />
+		<property name="Material" value="Mcloth" />
 		<property name="DescriptionKey" value="Class - Farmer (Locked)Desc"/>
         <!--        <property name="CustomIcon" value="suitcase" /> -->
-        <property name="Shape" value="Ext3dModel" />
+       <property name="Shape" value="ModelEntity"/>
         <property name="Mesh" value="models" />
-        <property name="Model" value="LootContainers/suitcase" param1="main_mesh" />
+        <property name="Model" value="#Entities/LootContainers?luggageMediumClosedPrefab.prefab"/>
         <property name="Place" value="TowardsPlacer" />
         <property name="LootList" value="411" />
         <drop event="Destroy" count="0" />
