@@ -8,16 +8,17 @@
 			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
 			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Mcloth"/>
-			<property name="Weight" value="1"/>
+			<property name="Weight" value="10"/>
 			<property name="Stacknumber" value="64"/> <!-- STK resource -->
 			<property name="EconomicValue" value="16"/>
-			<property name="Group" value="Resources"/>
+			<property name="Group" value="Tools/Resources"/>
 			</item>
     <item name="tanningRack">
         <property name="DescriptionKey" value="tanningRackDesc"/>
         <property name="Meshfile" value="Items/Misc/sackPrefab" />
         <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
-        <property name="Material" value="Morganic" />
+        <property name="Material" value="Mleather" />
+		<property name="Weight" value="10"/>
         <property name="HoldType" value="3" />
         <property name="Stacknumber" value="64" />
         <property class="Preview">
@@ -30,7 +31,8 @@
         <property name="DescriptionKey" value="weldingTorchDesc"/>
         <property name="Meshfile" value="Items/Misc/sackPrefab" />
         <property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
-        <property name="Material" value="Morganic" />
+        <property name="Material" value="Msteel" />
+		<property name="Weight" value="10"/>
         <property name="HoldType" value="3" />
         <property name="Stacknumber" value="64" />
         <property class="Preview">
