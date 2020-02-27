@@ -12,17 +12,17 @@
 		<item name="armorLeatherSetSchematic" count="1" />
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolKnifeMachete" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolKnifeMachete" count="1"  />
         <item name="meleeToolKnifeMacheteSchematic" count="1" />
         <item name="gunHuntingRifleSchematic" count="1" />
 		<item name="gunHuntingRifle"/>
 		<item name="ammo762mmBulletBall" count="250"/>
-        <item name="gunBowCompound" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunBowCompound" count="1"  />
         <item name="ammoArrowSteelAP" count="120" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"  />
 		<item name="ammo9mmBulletBall" count="25" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         </lootgroup>
 		
         <lootgroup name="BuilderClass" count="all">
@@ -41,21 +41,21 @@
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="medicalFirstAidBandage" count="1" />
 		<item name="gunToolNailgunSchematic" count="1" />
-		<item name="gunToolNailgun" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunToolNailgun" count="1"  />
 		<item name="resourceNail" count="100,400"/>
 		<item name="meleeToolClawHammer" count="1" />
 		<item name="meleeToolSledgehammerSteelSchematic" count="1" />
-        <item name="meleeToolSledgehammerSteel" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolSledgehammerSteel" count="1"  />
 		<item name="meleeToolSledgehammerSteelParts" count="1,4"/>
-        <item name="meleeToolFireaxeSteel" count="1" loot_prob_template="GradeALoot" />
-        <item name="meleeToolKnifeIron" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolFireaxeSteel" count="1"  />
+        <item name="meleeToolKnifeIron" count="1"  />
         <item name="resourceWood" count="500" />
         <item name="woodFrameBlockVariantHelper" count="164" />
 		<item name="tableSawSchematic" count="1" />
 		<item name="cementMixerSchematic" count="1" />
 		<item name="workbenchSchematic" count="1" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1"  loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"   />
 		<item name="ammo9mmBulletBall" count="25" />
 		<item name="meleeToolPaintTool" count="1" />
 		<item name="resourcePaint" count="10" />
@@ -73,10 +73,10 @@
 		<item name="armorIronSetSchematic" count="1" />
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         <item name="gunHuntingRifleSchematic" count="1" />
-        <item name="gunHuntingRifle" count="1" loot_prob_template="GradeALoot" />
-        <item name="meleeToolKnifeIron" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunHuntingRifle" count="1"  />
+        <item name="meleeToolKnifeIron" count="1"  />
         <item name="ammo762mmBulletBall" count="50" />
 		<item name="meleeToolKnifeIron" count="1" />
 		<item name="gunPumpShotgunSchematic" count="1" />
@@ -84,7 +84,7 @@
 		<item name="ammoShotgunShell" count="25" />
         <item name="resourceRepairKit" count="2,10" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"  />
 		<item name="ammo9mmBulletBall" count="25" />
         </lootgroup>
 		
@@ -100,16 +100,16 @@
 		<item name="armorMilitarySetSchematic" count="1" />
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
-		<item name="gunPistol" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
+		<item name="gunPistol" count="1"  />
 		<item name="ammo9mmBulletBall" count="50,75"/>
         <item name="resourceRepairKit" count="10" />
         <item name="gunPistolSchematic" count="1" />
-		<item name="gunSMG5" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunSMG5" count="1"  />
         <item name="ammo9mmBulletHP" count="50" />
         <item name="gunSMG5Schematic" count="1" />
 		<item name="gunCrossbowIronSchematic" count="1" />
-		<item name="gunCrossbowCompound" count="1" loot_prob_template="GradeALoot"/>
+		<item name="gunCrossbowCompound" count="1" />
 		<item name="ammoCrossbowBoltIron" count="40,100"/>	
         </lootgroup>
 		
@@ -121,18 +121,18 @@
         <item name="drugPainkillers" count="1" />
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         <item name="gunAK47Schematic" count="1" />
-        <item name="gunAK47" count="1" loot_prob_template="GradeALoot" />
-        <item name="meleeToolKnifeIron" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunAK47" count="1"  />
+        <item name="meleeToolKnifeIron" count="1"  />
         <item name="resourceRepairKit" count="4" />
 		<item name="gunMR10Schematic" count="1" />
-        <item name="gunMR10" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunMR10" count="1"  />
         <item name="ammo762mmBulletBall" count="50,150" />
-		<item name="gun44Magnum" count="1" loot_prob_template="GradeALoot" />
+		<item name="gun44Magnum" count="1"  />
 		<item name="ammo44MagnumBulletBall" count="100,250"/>
 		<item name="gunCrossbowCompoundSchematic" count="1" />
-		<item name="gunCrossbowCompound" count="1" loot_prob_template="GradeALoot"/>
+		<item name="gunCrossbowCompound" count="1" />
 		<item name="ammoCrossbowBoltIron" count="40,100"/>	
         </lootgroup>
 		
@@ -151,9 +151,9 @@
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="meleeToolTorch" count="4" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         <item name="forge" count="1" />
-        <item name="meleeToolPickaxeSteel" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolPickaxeSteel" count="1"  />
 		<item name="meleeToolSteelSetSchematic" count="1" />
         <item name="resourceForgedIron" count="15" />
 		<item name="thrownDynamite" count="10" />
@@ -164,7 +164,7 @@
 		<item name="toolForgeCrucibleSchematic"/>
 		<item name="toolAnvilSchematic"/>
 		<item name="gunPumpShotgunSchematic" count="1" />
-		<item name="gunPumpShotgun" count="1" loot_prob_template="GradeALoot"/>
+		<item name="gunPumpShotgun" count="1" />
 		<item name="ammoShotgunBreachingSlug" count="40,100"/>	
         </lootgroup>
 		
@@ -179,19 +179,19 @@
         <item name="drinkJarPureMineralWater" count="6" />
         <item name="meleeToolTorch" count="6" />
         <item name="medicalFirstAidBandage" count="6" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         <item name="meleeToolFlashlight02" count="1" />
         <item name="gunCrossbowIronSchematic" count="1" />
-        <item name="gunCrossbowIron" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunCrossbowIron" count="1"  />
         <item name="ammoCrossbowBoltIron" count="60" />
         <item name="toolCookingPot" count="1" />
         <item name="campfire" count="1" />
         <item name="medicalFirstAidKit" count="1" />
-       <item name="meleeToolKnifeIron" count="1" loot_prob_template="GradeALoot" />
+       <item name="meleeToolKnifeIron" count="1"  />
         <item group="seeds" count="8" />
         <item name="bedroll" count="1" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"  />
 		<item name="ammo9mmBulletBall" count="15" />
 		<item name="woodFrameBlock" count="10" />
         </lootgroup>
@@ -208,7 +208,7 @@
 		<item name="armorSteelSetSchematic" count="1" />
         <item name="drinkJarPureMineralWater" count="1" />
         <item name="medicalFirstAidBandage" count="6" />
-        <item name="meleeToolSledgehammerSteel" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolSledgehammerSteel" count="1"  />
 		<item name="meleeToolSledgehammerSteelSchematic" count="1" />
 		<item name="meleeStunBatonSchematic" count="1" />
 		<item name="meleeKnucklesSteelSchematic" count="1" />
@@ -217,14 +217,14 @@
 		<item name="thrownGrenade" count="1" />
         <item name="thrownGrenadeContact" count="2" />
 		<item name="armorSteelSetSchematic" count="1" />
-        <item name="meleeStunBaton" count="1" loot_prob_template="GradeALoot" />
-        <item name="gunBlunderbuss" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeStunBaton" count="1"  />
+        <item name="gunBlunderbuss" count="1"  />
         <item name="ammoBlunderbuss" count="30" />
-		<item name="gunM60" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunM60" count="1"  />
         <item name="ammo762mmBulletBall" count="100,250" />
         <item name="drugAntibiotics" count="2" />
         <item name="resourceRepairKit" count="2" />
-		<item name="gunJunkTurret" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunJunkTurret" count="1"  />
 		<item name="gunJunkTurretSchematic" count="1" />
 		<item name="ammoJunkTurret" count="100" />
 		</lootgroup>
@@ -255,8 +255,8 @@
         <item name="foodHoney" count="5" />
 		<item name="drinkJarBeer" count="8" />
         <item name="drinkJarPureMineralWater" count="6" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
-        <item name="meleeToolKnifeIron" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
+        <item name="meleeToolKnifeIron" count="1"  />
 		<item name="toolBeaker" count="1" />
         <item name="meleeToolFlashlight02" count="1" />
 		<item name="medicalFirstAidBandageSchematic"/>
@@ -265,10 +265,10 @@
 		<item name="drugAntibioticsSchematic" count="1" />
 		<item name="drugHerbalAntibioticsSchematic" count="1" />
 		<item name="chemistryStationSchematic"/>
-		<item name="gunSMG5" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunSMG5" count="1"  />
 		<item name="ammo762mmBulletBall" count="50" />
         <item name="gunAK47Schematic" count="1" />
-		<item name="gunBowPrimitive" count="1" loot_prob_template="GradeALoot" />
+		<item name="gunBowPrimitive" count="1"  />
 		<item name="ammoArrowStone" count="50" />
         </lootgroup>
 		
@@ -281,9 +281,9 @@
 		<item name="resourceSewingKit" count="1,6"/>
 		<item name="drinkJarBeer" count="10" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolKnifeMachete" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolKnifeMachete" count="1"  />
         <item name="meleeToolKnifeMacheteSchematic" count="1" />
-        <item name="meleeToolWrench" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolWrench" count="1"  />
 		<item name="meleeToolWrenchSchematic" count="1" />
 		<item name="ammoGasCan" count="40" />
 		<item name="ammoGasCanSchematic" count="1" />
@@ -299,12 +299,12 @@
 		<item name="vehicleGyroCopterChassisSchematic" count="1" />
 		<item name="vehicleGyroCopterAccessoriesSchematic" count="1" />
 		<item name="drinkJarCoffee" count="250"/>
-        <item name="gunBowWooden" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunBowWooden" count="1"  />
         <item name="ammoArrowIron" count="120" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1"  loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"   />
 		<item name="ammo9mmBulletBall" count="25" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         </lootgroup>
 		
 		<lootgroup name="EngineerClass" count="all">    
@@ -315,7 +315,7 @@
         <item name="meleeToolWireTool" count="1" />
 		<item name="drinkJarBeer" count="10" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolKnifeMachete" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolKnifeMachete" count="1"  />
         <item name="meleeToolKnifeMacheteSchematic" count="1" />
         <item name="meleeToolWrench" count="1" />
 		<item name="meleeToolWrenchSchematic" count="1" />
@@ -335,12 +335,12 @@
 		<item name="batterybankSchematic" count="1" />
 		<item name="electrictimerrelaySchematic" count="1" />
 		<item name="drinkJarCoffee" count="250"/>
-        <item name="gunCrossbowIron" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunCrossbowIron" count="1"  />
         <item name="ammoCrossbowBoltSteelAP" count="120" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1"  loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"   />
 		<item name="ammo9mmBulletBall" count="25" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         </lootgroup>
 		
 		<lootgroup name="FarmerClass" count="all">    
@@ -355,7 +355,7 @@
         <item name="meleeToolWireTool" count="1" />
 		<item name="drinkJarBeer" count="10" />
         <item name="medicalFirstAidBandage" count="1" />
-        <item name="meleeToolKnifeMachete" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolKnifeMachete" count="1"  />
         <item name="meleeToolKnifeMacheteSchematic" count="1" />
 		<item name="meleeToolHoeIron" count="1" />
 		<item name="meleeToolHoeIronSchematic" count="1" />
@@ -404,12 +404,12 @@
 		<item name="drinkJarBlackStrapCoffee" count="1" />
 		<item name="drinkCanMegaCrush" count="1" />
 		<item name="drinkJarCoffee" count="250"/>
-        <item name="gunBowPrimitive" count="1" loot_prob_template="GradeALoot" />
+        <item name="gunBowPrimitive" count="1"  />
         <item name="ammoArrowStone" count="120" />
 		<item name="gunPistolSchematic" count="1" />
-		<item name="gunPistol" count="1"  loot_prob_template="GradeALoot" />
+		<item name="gunPistol" count="1"   />
 		<item name="ammo9mmBulletBall" count="25" />
-        <item name="meleeToolStoneAxe" count="1" loot_prob_template="GradeALoot" />
+        <item name="meleeToolStoneAxe" count="1"  />
         </lootgroup>
 		
 		<!-- VALMAR LootContainers start at 400 -->
