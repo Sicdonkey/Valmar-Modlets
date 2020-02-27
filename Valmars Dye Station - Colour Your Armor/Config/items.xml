@@ -42,11 +42,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="2"/>
-			<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		     </property>
     </item>
      <item name="leatherChestRed">
         <property name="CustomIcon" value="armorLeatherChest" />
@@ -69,9 +65,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="leatherPantsRed">
         <property name="CustomIcon" value="armorLeatherPants" />
@@ -94,9 +88,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="leatherBootsRed">
         <property name="CustomIcon" value="armorLeatherBoots" />
@@ -120,9 +112,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="leatherGlovesRed">
         <property name="CustomIcon" value="armorLeatherGloves" />
@@ -145,9 +135,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Leather Blue -->
     <item  name="leatherHoodBlue">
@@ -169,11 +157,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		 </property>
     </item>
    <item name="leatherChestBlue">
         <property name="CustomIcon" value="armorLeatherChest" />
@@ -196,9 +180,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item> 
     <item name="leatherPantsBlue">
         <property name="CustomIcon" value="armorLeatherPants" />
@@ -221,9 +203,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="leatherBootsBlue">
         <property name="CustomIcon" value="armorLeatherBoots" />
@@ -247,9 +227,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="leatherGlovesBlue">
         <property name="CustomIcon" value="armorLeatherGloves" />
@@ -272,9 +250,7 @@
 	</effect_group>
 	  <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Leather Green -->
     <item name="leatherHoodGreen">
@@ -296,11 +272,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="leatherChestGreen">
         <property name="CustomIcon" value="armorLeatherChest" />
@@ -322,9 +294,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 	   <property class="UMA">
-            <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
+            <property name="Overlay0Tint" value="51, 102, 0" />		
         </property>
     </item>
     <item name="leatherPantsGreen">
@@ -347,9 +317,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 		<property class="UMA">
-            <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
+            <property name="Overlay0Tint" value="51, 102, 0" />		
         </property>
     </item>
     <item name="leatherBootsGreen">
@@ -373,9 +341,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 	   <property class="UMA">
-            <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
+            <property name="Overlay0Tint" value="51, 102, 0" />		
         </property>
     </item>
     <item name="leatherGlovesGreen">
@@ -398,9 +364,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 		<property class="UMA">
-            <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
+            <property name="Overlay0Tint" value="51, 102, 0" />			
         </property>
     </item>
     <!--Leather Purple -->
@@ -422,11 +386,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 		<property class="UMA">
-            <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
+            <property name="Overlay0Tint" value="51, 0, 102" />		
         </property>
     </item>
     <item name="leatherChestPurple">
@@ -449,9 +409,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 	   <property class="UMA">
-            <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
+            <property name="Overlay0Tint" value="51, 0, 102" />		
         </property>
     </item> 
     <item name="leatherPantsPurple">
@@ -474,9 +432,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 		<property class="UMA">
-            <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
+            <property name="Overlay0Tint" value="51, 0, 102" />		
         </property>
     </item>
     <item name="leatherBootsPurple">
@@ -500,9 +456,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 		<property class="UMA">
-            <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
+            <property name="Overlay0Tint" value="51, 0, 102" />		
         </property>
     </item>
     <item name="leatherGlovesPurple">
@@ -525,9 +479,7 @@
 		<passive_effect name="BuffResistance" operation="base_add" value=".109,.135" tags="buffInfectionCatch,buffInjuryBleeding,buffInjuryStunned01"/><passive_effect name="BuffResistance" operation="base_add" value=".03" tags="buffInfectionCatch"/><passive_effect name="BuffResistance" operation="base_add" value=".01" tags="buffInjuryBleeding"/>
 	</effect_group>
 	   <property class="UMA">
-            <property name="Overlay0Tint" value="51, 0, 102" />
-		<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>	
+            <property name="Overlay0Tint" value="51, 0, 102" />			
         </property>
     </item>
     <!--Leather Yellow -->
@@ -550,10 +502,6 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
         </property>
     </item>
   <item name="leatherChestYellow">
@@ -577,9 +525,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		 </property>
     </item> 
     <item name="leatherPantsYellow">
         <property name="CustomIcon" value="armorLeatherPants" />
@@ -602,9 +548,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="leatherBootsYellow">
         <property name="CustomIcon" value="armorLeatherBoots" />
@@ -628,9 +572,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="leatherGlovesYellow">
         <property name="CustomIcon" value="armorLeatherGloves" />
@@ -653,9 +595,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Leather Orange -->
     <item name="leatherHoodOrange">
@@ -677,11 +617,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		</property>
     </item>
    <item name="leatherChestOrange">
         <property name="CustomIcon" value="armorLeatherChest" />
@@ -704,9 +640,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="leatherPantsOrange">
         <property name="CustomIcon" value="armorLeatherPants" />
@@ -729,9 +663,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="leatherBootsOrange">
         <property name="CustomIcon" value="armorLeatherBoots" />
@@ -755,9 +687,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		 </property>
     </item>
     <item name="leatherGlovesOrange">
         <property name="CustomIcon" value="armorLeatherGloves" />
@@ -780,9 +710,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Leather Black -->
     <item name="leatherHoodBlack">
@@ -804,11 +732,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="leatherChestBlack">
         <property name="CustomIcon" value="armorLeatherChest" />
@@ -831,9 +755,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="leatherPantsBlack">
         <property name="CustomIcon" value="armorLeatherPants" />
@@ -856,9 +778,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="leatherBootsBlack">
         <property name="CustomIcon" value="armorLeatherBoots" />
@@ -882,9 +802,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="leatherGlovesBlack">
         <property name="CustomIcon" value="armorLeatherGloves" />
@@ -907,9 +825,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
 	<!-- LEATHER --><!-- LEATHER --><!-- LEATHER --><!-- LEATHER --><!-- LEATHER --><!-- LEATHER --><!-- LEATHER --><!-- LEATHER -->
 	
@@ -937,16 +853,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		  </property>
     </item>
     <item name="ironChestArmorRed">
         <property name="CustomIcon" value="armorIronChest" />
@@ -969,9 +876,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironLegArmorRed">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -994,9 +899,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsRed">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1019,9 +922,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="ironGlovesRed">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1044,9 +945,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Iron Blue -->
     <item name="ironHelmetBlue">
@@ -1071,16 +970,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="ironChestArmorBlue">
         <property name="CustomIcon" value="armorIronChest" />
@@ -1103,9 +993,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironLegArmorBlue">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -1128,9 +1016,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsBlue">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1153,9 +1039,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		 </property>
     </item>
     <item name="ironGlovesBlue">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1178,9 +1062,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Iron Green -->
     <item name="ironHelmetGreen">
@@ -1205,16 +1087,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="ironChestArmorGreen">
         <property name="CustomIcon" value="armorIronChest" />
@@ -1237,9 +1110,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironLegArmorGreen">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -1262,9 +1133,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsGreen">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1287,9 +1156,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="ironGlovesGreen">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1312,9 +1179,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Iron Purple -->
     <item name="ironHelmetPurple">
@@ -1339,16 +1204,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="ironChestArmorPurple">
         <property name="CustomIcon" value="armorIronChest" />
@@ -1371,9 +1227,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="ironLegArmorPurple">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -1396,9 +1250,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsPurple">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1421,9 +1273,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="ironGlovesPurple">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1446,9 +1296,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		 </property>
     </item>
     <!--Iron Lime -->
     <item name="ironHelmetLime">
@@ -1473,16 +1321,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="ironChestArmorLime">
         <property name="CustomIcon" value="armorIronChest" />
@@ -1505,9 +1344,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironLegArmorLime">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -1530,9 +1367,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsLime">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1555,9 +1390,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="ironGlovesLime">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1580,9 +1413,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Iron Orange -->
     <item name="ironHelmetOrange">
@@ -1607,16 +1438,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="ironChestArmorOrange">
         <property name="CustomIcon" value="armorIronChest" />
@@ -1639,9 +1461,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironLegArmorOrange">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -1664,9 +1484,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsOrange">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1689,9 +1507,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="ironGlovesOrange">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1714,9 +1530,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Iron Black -->
     <item name="ironHelmetBlack">
@@ -1741,16 +1555,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="ironChestArmorBlack">
         <property name="CustomIcon" value="armorIronChest" />
@@ -1773,9 +1578,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironLegArmorBlack">
         <property name="CustomIcon" value="armorIronLegs" />
@@ -1798,9 +1601,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="ironBootsBlack">
         <property name="CustomIcon" value="armorIronBoots" />
@@ -1823,9 +1624,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="ironGlovesBlack">
         <property name="CustomIcon" value="armorIronGloves" />
@@ -1848,9 +1647,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
 	<!-- IRON --><!-- IRON --><!-- IRON --><!-- IRON --><!-- IRON --><!-- IRON --><!-- IRON -->
 	<!-- SCRAP -->
@@ -1876,16 +1673,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="scrapChestArmorRed">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -1908,9 +1696,7 @@
 	</effect_group>
 	  <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapLegArmorRed">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -1933,9 +1719,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapBootsRed">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -1958,9 +1742,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesRed">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -1983,9 +1765,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Scrap Blue -->
     <item name="scrapHelmetBlue">
@@ -2009,16 +1789,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="scrapChestArmorBlue">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -2041,9 +1812,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="scrapLegArmorBlue">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -2066,9 +1835,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapBootsBlue">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -2091,9 +1858,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesBlue">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -2116,9 +1881,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		 </property>
     </item>
     <!--Scrap Green -->
     <item name="scrapHelmetGreen">
@@ -2142,16 +1905,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="scrapChestArmorGreen">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -2174,9 +1928,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapLegArmorGreen">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -2199,9 +1951,7 @@
 	</effect_group>
 	  <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapBootsGreen">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -2224,9 +1974,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesGreen">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -2249,9 +1997,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Scrap Purple -->
     <item name="scrapHelmetPurple">
@@ -2275,16 +2021,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="scrapChestArmorPurple">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -2307,9 +2044,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapLegArmorPurple">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -2332,9 +2067,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="scrapBootsPurple">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -2357,9 +2090,7 @@
 	</effect_group>
 	  <property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesPurple">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -2382,9 +2113,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		 </property>
     </item>
     <!--Scrap Lime -->
     <item name="scrapHelmetLime">
@@ -2408,16 +2137,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="scrapChestArmorLime">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -2440,9 +2160,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapLegArmorLime">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -2465,9 +2183,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapBootsLime">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -2490,9 +2206,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesLime">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -2515,9 +2229,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		 </property>
     </item>
     <!--Scrap Orange -->
     <item name="scrapHelmetOrange">
@@ -2541,16 +2253,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="scrapChestArmorOrange">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -2573,9 +2276,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapLegArmorOrange">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -2598,9 +2299,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapBootsOrange">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -2623,10 +2322,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-			
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesOrange">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -2649,9 +2345,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Scrap Black -->
     <item name="scrapHelmetBlack">
@@ -2675,16 +2369,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="middle"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask1" value="Head" param1="inner"/>
-		<property name="Mask3" value="Face" param1="inner"/>
-		<property name="Mask4" value="Face" param1="middle"/>
-		<property name="Mask5" value="Face" param1="outer"/>
-		<property name="Mask7" value="Eyes" param1="inner"/>
-		<property name="Mask8" value="Eyes" param1="middle"/>
-		<property name="Mask9" value="Eyes" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="scrapChestArmorBlack">
         <property name="CustomIcon" value="armorScrapChest" />
@@ -2707,9 +2392,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapLegArmorBlack">
         <property name="CustomIcon" value="armorScrapLegs" />
@@ -2732,9 +2415,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="scrapBootsBlack">
         <property name="CustomIcon" value="armorScrapBoots" />
@@ -2757,9 +2438,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="scrapGlovesBlack">
         <property name="CustomIcon" value="armorScrapGloves" />
@@ -2782,9 +2461,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		 </property>
     </item>
 	<!-- SCRAP --><!-- SCRAP --><!-- SCRAP --><!-- SCRAP --><!-- SCRAP -->
 	<!-- CLOTH -->
@@ -2804,11 +2481,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="clothJacketRed">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -2825,9 +2498,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothPantsRed">
         <property name="CustomIcon" value="armorClothPants" />
@@ -2844,9 +2515,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothBootsRed">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -2863,9 +2532,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="clothGlovesRed">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -2882,9 +2549,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Cloth Blue -->
     <item name="clothHatBlue">
@@ -2902,11 +2567,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="clothJacketBlue">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -2923,9 +2584,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothPantsBlue">
         <property name="CustomIcon" value="armorClothPants" />
@@ -2942,9 +2601,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="clothBootsBlue">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -2961,9 +2618,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="clothGlovesBlue">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -2980,9 +2635,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Cloth Green -->
     <item name="clothHatGreen">
@@ -3000,11 +2653,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="clothJacketGreen">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -3021,9 +2670,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothPantsGreen">
         <property name="CustomIcon" value="armorClothPants" />
@@ -3040,9 +2687,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothBootsGreen">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -3059,9 +2704,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="clothGlovesGreen">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -3078,9 +2721,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Cloth Purple -->
     <item name="clothHatPurple">
@@ -3098,11 +2739,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="clothJacketPurple">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -3119,9 +2756,7 @@
 	</effect_group>
 	  <property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothPantsPurple">
         <property name="CustomIcon" value="armorClothPants" />
@@ -3138,9 +2773,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="clothBootsPurple">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -3157,9 +2790,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		 </property>
     </item>
     <item name="clothGlovesPurple">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -3176,9 +2807,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Cloth Lime -->
     <item name="clothHatLime">
@@ -3196,11 +2825,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="clothJacketLime">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -3217,9 +2842,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothPantsLime">
         <property name="CustomIcon" value="armorClothPants" />
@@ -3236,9 +2859,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothBootsLime">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -3255,9 +2876,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="clothGlovesLime">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -3274,9 +2893,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Cloth Orange -->
     <item name="clothHatOrange">
@@ -3294,11 +2911,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		 </property>
     </item>
     <item name="clothJacketOrange">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -3315,9 +2928,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothPantsOrange">
         <property name="CustomIcon" value="armorClothPants" />
@@ -3334,9 +2945,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		</property>
     </item>
     <item name="clothBootsOrange">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -3353,9 +2962,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="clothGlovesOrange">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -3372,9 +2979,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
     <!--Cloth Black -->
     <item name="clothHatBlack">
@@ -3392,11 +2997,7 @@
 	</effect_group>
 	   <property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="Headgear"/>
-		<property name="Mask0" value="Head" param1="inner"/>
-		<property name="Mask1" value="Head" param1="outer"/>
-        </property>
+		</property>
     </item>
     <item name="clothJacketBlack">
         <property name="CustomIcon" value="armorClothJacket" />
@@ -3413,9 +3014,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="2"/>
-		<property name="UISlot" value="ChestArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="clothPantsBlack">
         <property name="CustomIcon" value="armorClothPants" />
@@ -3432,9 +3031,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="LegArmor"/>
-        </property>
+		 </property>
     </item>
     <item name="clothBootsBlack">
         <property name="CustomIcon" value="armorClothBoots" />
@@ -3451,9 +3048,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="0"/>
-		<property name="UISlot" value="Footwear"/>
-        </property>
+		</property>
     </item>
     <item name="clothGlovesBlack">
         <property name="CustomIcon" value="armorClothGloves" />
@@ -3470,9 +3065,7 @@
 	</effect_group>
 		<property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Gloves"/>
-        </property>
+		</property>
     </item>
 	<!-- CLOTH --><!-- CLOTH --><!-- CLOTH --><!-- CLOTH --><!-- CLOTH -->
 	<!-- DUSTERS -->
@@ -3483,11 +3076,7 @@
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
             <property name="Overlay0Tint" value="204, 0, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+		</property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
@@ -3502,11 +3091,7 @@
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
             <property name="Overlay0Tint" value="0, 51, 204" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+		</property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
@@ -3521,11 +3106,7 @@
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
             <property name="Overlay0Tint" value="51, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+		</property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
@@ -3539,12 +3120,7 @@
         <property name="CustomIconTint" value="C483FF" />
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
-            <property name="Overlay0Tint" value="51, 0, 102" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+        </property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
@@ -3559,11 +3135,7 @@
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
             <property name="Overlay0Tint" value="255, 255, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+		</property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
@@ -3578,11 +3150,7 @@
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
             <property name="Overlay0Tint" value="255, 102, 0" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+		</property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
@@ -3597,11 +3165,7 @@
         <property name="Extends" value="apparelCoatLeatherDuster" />
         <property class="UMA">
             <property name="Overlay0Tint" value="51, 51, 51" />
-			<property name="Layer" value="3"/>
-		<property name="UISlot" value="Jacket"/>
-		<property name="Mask0" value="hands" param1="outer"/>
-		<property name="Mask1" value="chest" param1="middle"/>
-	</property>
+		</property>
 	<effect_group tiered="false">
 		<passive_effect name="ModSlots" operation="base_set" value="1"/>
 		<passive_effect name="ModPowerBonus" operation="base_add" value="100" tags="EconomicValue"/>
