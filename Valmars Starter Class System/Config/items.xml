@@ -52,5 +52,267 @@
             <property name="Rot" value="90,45,0" />
         </property>
         </item>
+		
+	<!-- Classes Perks-->
+
+<item name="perkSurvivor">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkSurvivor"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkMiner">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkMiner"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkHunter">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkHunter"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkGunman">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkGunman"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkMedic">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkMedic"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkBruiser">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkBruiser"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkRifleman">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkRifleman"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkVeteran">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkVeteran"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkBuilder">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkBuilder"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkMechanic">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkMechanic"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkEngineer">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkEngineer"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkFarmer">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkFarmer"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkTerrorist">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkTerrorist"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkMachineGunner">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkMachineGunner"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkMarine">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkMarine"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkAssassin">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkAssassin"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkWildcard">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWildcard"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<!-- Modded Quests -->
+<item name="challengeSticky">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property name="CustomIconTint" value="781B8F" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_sticky" />
+	</property>
+</item>
+<item name="challengeClassMiner">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_miner1" />
+	</property>
+</item>
+<item name="challengeClassHunter">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_hunter1" />
+	</property>
+</item>
+<item name="challengeClassBuilder">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_builder1" />
+	</property>
+</item>
+<item name="challengeClassRifleman">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_rifleman1" />
+	</property>
+</item>
+<item name="challengeClassGunman">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_gunman1" />
+	</property>
+</item>
+<item name="challengeClassVeteran">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_veteran1" />
+	</property>
+</item>
+<item name="challengeClassSurvivor">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_survivor1" />
+	</property>
+</item>
+<item name="challengeClassBruiser">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_bruiser1" />
+	</property>
+</item>
+<item name="challengeClassMedic">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_medic1" />
+	</property>
+</item>
+
+<item name="challengeClassMechanic">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_Mechanic1" />
+	</property>
+</item>
+<item name="challengeClassEngineer">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_Engineer1" />
+	</property>
+</item>
+<item name="challengeClassFarmer">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_Farmer1" />
+	</property>
+</item>
+<item name="challengeClassTerrorist">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_Terrorist1" />
+	</property>
+</item>
+<item name="challengeClassMachineGunner">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_MachineGunner1" />
+	</property>
+</item>
+<item name="challengeClassMarine">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_Marine1" />
+	</property>
+</item>
+<item name="challengeClassAssassin">
+	<property name="Extends" value="challengeQuestMaster" />
+	<property class="Action0">
+		<property name="QuestGiven" value="challenge_Assassin1" />
+	</property>
+</item>
 		</append>
 </Valmar>

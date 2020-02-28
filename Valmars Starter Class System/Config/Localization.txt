@@ -40,7 +40,7 @@ Class - Medic (Locked),,blocks,Block,New,Class Medic (Locked),,,,,
 Class - Medic (Locked)Desc,,blocks,Block,New,Gifts you the items of a Medic.,,,,,
 Class - Medic,,blocks,Block,New,Class Medic,,,,,
 
-Class - Mechanic (Locked),,blocks,Block,New,Class Gunman (Locked),,,,,
+Class - Mechanic (Locked),,blocks,Block,New,Class Mechanic (Locked),,,,,
 Class - Mechanic (Locked)Desc,,blocks,Block,New,Gifts you the items of a Mechanic.,,,,,
 Class - Mechanic,,blocks,Block,New,Class Mechanic,,,,,
 
