@@ -51,3 +51,19 @@ Class - Engineer,,blocks,Block,New,Class Engineer,,,,,
 Class - Farmer (Locked),,blocks,Block,New,Class Farmer (Locked),,,,,
 Class - Farmer (Locked)Desc,,blocks,Block,New,Gifts you the items of a Farmer.,,,,,
 Class - Farmer,,blocks,Block,New,Class Farmer,,,,,
+
+Class - Terrorist (Locked),,blocks,Block,New,Class Terrorist (Locked),,,,,
+Class - Terrorist (Locked)Desc,,blocks,Block,New,Gifts you the items of a Terrorist.,,,,,
+Class - Terrorist,,blocks,Block,New,Class Terrorist,,,,,
+
+Class - Machine Gunner (Locked),,blocks,Block,New,Class Machine Gunner (Locked),,,,,
+Class - Machine Gunner (Locked)Desc,,blocks,Block,New,Gifts you the items of a Machine Gunner.,,,,,
+Class - Machine Gunner,,blocks,Block,New,Class Machine Gunner,,,,,
+
+Class - Marine (Locked),,blocks,Block,New,Class Marine (Locked),,,,,
+Class - Marine (Locked)Desc,,blocks,Block,New,Gifts you the items of a Marine.,,,,,
+Class - Marine,,blocks,Block,New,Class Marine,,,,,
+
+Class - Assassin (Locked),,blocks,Block,New,Class Assassin (Locked),,,,,
+Class - Assassin (Locked)Desc,,blocks,Block,New,Gifts you the items of a Assassin.,,,,,
+Class - Assassin,,blocks,Block,New,Class Assassin,,,,,

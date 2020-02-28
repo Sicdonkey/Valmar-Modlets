@@ -6,7 +6,7 @@
 		<property name="DescriptionKey" value="cntEPSMunitionsBoxDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntMunitionsBox" />
-        <property name="LootList" value="414" />
+        <property name="LootList" value="417" />
     </block>
     <block name="cntEPSLockers">
         <property name="Extends" value="cntLockersTallClosed" />
@@ -14,7 +14,7 @@
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntLockersTallClosed" />
         <property name="Place" value="TowardsPlacerInverted" />
-        <property name="LootList" value="417" />
+        <property name="LootList" value="420" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSFileCabinet">
@@ -22,7 +22,7 @@
 		<property name="DescriptionKey" value="cntEPSFileCabinetDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntFileCabinetTallClosed" />
-        <property name="LootList" value="416" />
+        <property name="LootList" value="419" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSCardboardBox">
@@ -30,7 +30,7 @@
         <property name="DescriptionKey" value="cntEPSCardboardBoxDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntGarageStorage" />
-        <property name="LootList" value="415" />
+        <property name="LootList" value="418" />
         <property class="RepairItems">
             <property name="ductTape" value="3" />
         </property>
@@ -41,7 +41,7 @@
 		<property name="DescriptionKey" value="cntEPSFridgeDesc"/>
         <property name="CustomIcon" value="cntFridgeStainlessSteel" />
         <property name="Class" value="SecureLoot" />
-        <property name="LootList" value="419" />
+        <property name="LootList" value="422" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSRetroFridge">
@@ -49,7 +49,7 @@
 		<property name="DescriptionKey" value="cntEPSRetroFridgeDesc"/>
         <property name="CustomIcon" value="cntRetroFridgeVer1Closed" />
         <property name="Class" value="SecureLoot" />
-        <property name="LootList" value="415" />
+        <property name="LootList" value="418" />
         <property name="Place" value="TowardsPlacerInverted" />
         <drop event="Destroy" count="0" />
     </block>
@@ -58,7 +58,7 @@
 		<property name="DescriptionKey" value="cntEPSPillCaseDesc"/>
         <property name="CustomIcon" value="cntPillCase" />
         <property name="Class" value="SecureLoot" />
-        <property name="LootList" value="413" />
+        <property name="LootList" value="419" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSBeerCooler">
@@ -67,7 +67,7 @@
         <property name="CustomIcon" value="cntBeerCooler" />
         <property name="Class" value="SecureLoot" />
         <property name="Place" value="TowardsPlacerInverted" />
-        <property name="LootList" value="419" />
+        <property name="LootList" value="422" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSMedicineCabinet">
@@ -75,7 +75,7 @@
 		<property name="DescriptionKey" value="cntEPSMedicineCabinetDesc"/>
         <property name="CustomIcon" value="cntMedicineCabinetClosed" />
         <property name="Class" value="SecureLoot" />
-        <property name="LootList" value="413" />
+        <property name="LootList" value="419" />
         <drop event="Destroy" name="0" count="1" />
     </block>
     <block name="cntEPSBookcase">
@@ -84,7 +84,7 @@
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntBookcaseFull" />
         <property name="Place" value="TowardsPlacerInverted" />
-        <property name="LootList" value="418" />
+        <property name="LootList" value="421" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSWallSafe">
@@ -93,7 +93,7 @@
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntWallSafe" />
         <property name="Place" value="TowardsPlacerInverted" />
-        <property name="LootList" value="420" />
+        <property name="LootList" value="423" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSCoffin">
@@ -101,14 +101,14 @@
 		<property name="DescriptionKey" value="cntEPSCoffinDesc"/>
         <property name="Class" value="SecureLoot" />
         <property name="CustomIcon" value="cntCoffin" />
-        <property name="LootList" value="415" />
+        <property name="LootList" value="418" />
         <property name="Group" value="Decor/Miscellaneous" />
     </block>
     <block name="cntEPSGasPump">
     <property name="CustomIcon" value="cntGasPump" />
 	<property name="DescriptionKey" value="cntEPSGasPumpDesc"/>
     <property name="Class" value="SecureLoot" />
-    <property name="LootList" value="414" />
+    <property name="LootList" value="417" />
     <property name="Material" value="Mmetal_thin" />
     <property name="Shape" value="Ext3dModel" />
     <property name="Mesh" value="models" />
