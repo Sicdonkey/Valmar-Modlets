@@ -199,12 +199,191 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
+
+
+<item name="perkWILDHunter">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDHunter"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDRifleman">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDRifleman"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDVeteran">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDVeteran"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDSurvivor">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDSurvivor"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDGunman">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDGunman"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDMedic">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDMedic"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDBruiser">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDBruiser"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDBuilder">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDBuilder"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDMiner">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDMiner"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDMechanic">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDMechanic"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDEngineer">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDEngineer"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDFarmer">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDFarmer"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDTerrorist">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDTerrorist"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDMachineGunner">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDMachineGunner"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
+<item name="perkWILDMarine">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDMarine"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkWILDAssassin">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWILDAssassin"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+
 <item name="perkWildcard">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
 	<property name="DescriptionKey" value="perkClassDesc"/>
 	<property class="Action0">
 	<property name="QuestGiven" value="perkWildcard"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkWildcard1">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWildcard1"/>
+	</property>
+	<property name="Stacknumber" value="1"/>
+</item>
+<item name="perkWildcard2">
+	<property name="Extends" value="challengeQuestMaster"/>
+	<property name="CustomIcon" value="expGain"/>
+	<property name="DescriptionKey" value="perkClassDesc"/>
+	<property class="Action0">
+	<property name="QuestGiven" value="perkWildcard2"/>
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
