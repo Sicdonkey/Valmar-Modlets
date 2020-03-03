@@ -58,7 +58,7 @@
 		<property name="DescriptionKey" value="cntEPSPillCaseDesc"/>
         <property name="CustomIcon" value="cntPillCase" />
         <property name="Class" value="SecureLoot" />
-        <property name="LootList" value="420" />
+        <property name="LootList" value="417" />
         <drop event="Destroy" count="0" />
     </block>
     <block name="cntEPSBeerCooler">

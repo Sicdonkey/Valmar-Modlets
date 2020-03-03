@@ -49,7 +49,7 @@
 	<property name="Model" value="#Entities/LootContainers?birdnestPrefab.prefab"/>
 	<property name="Shape" value="ModelEntity"/>
     <property name="IsTerrainDecoration" value="true" />
-    <property name="LootList" value="424" />
+    <property name="LootList" value="425" />
 	<drop event="Destroy" count="0" prob="1" />
   </block>
     <block name="animalSnare">
@@ -88,7 +88,7 @@
         <property name="CustomIcon" value="animalSnare" />
 		<property name="IsTerrainDecoration" value="true"/>
         <property name="Class" value="Loot" />
-        <property name="LootList" value="425" />
+        <property name="LootList" value="426" />
 		<property name="Model" value="Entities/OutdoorDecor/classicDogHousePrefab"/>
         <property name="Material" value="Mplastics" />
         <property name="Shape" value="ModelEntity" />
