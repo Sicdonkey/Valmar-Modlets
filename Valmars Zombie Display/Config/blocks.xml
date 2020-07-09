@@ -702,7 +702,7 @@
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Animals/Stag/STAG" />
-    <property name="PlaceAltBlockValue" value="LeurreAnimal1,LeurreAnimal2,LeurreAnimal3,LeurreAnimal4,LeurreAnimal5" />
+    <property name="PlaceAltBlockValue" value="LeurreAnimal1,LeurreAnimal2,LeurreAnimal3,LeurreAnimal4,LeurreAnimal5,LeurreAnimal6,LeurreAnimal7,LeurreAnimal8,LeurreAnimal9,LeurreAnimal10,LeurreAnimal11" />
 	<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
@@ -762,5 +762,90 @@
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>  
+   <block name="LeurreAnimal6">
+  <property name="CustomIcon" value="sleeperVultureAnimal" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreAnimal6" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="Mass" value="180"/>
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Animals/Vulture/animalStandardWolfRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+     <block name="LeurreAnimal7">
+  <property name="CustomIcon" value="sleeperBearAnimal" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreAnimal7" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Animals/Vulture/animalBearStandardRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>   
+       <block name="LeurreAnimal8">
+	<property name="CustomIcon" value="sleeperWolfAnimal" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreAnimal8" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Animals/Vulture/animalStandardCoyoteRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+       <block name="LeurreAnimal9">
+	<property name="CustomIcon" value="sleeperWolfAnimal" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreAnimal9" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Animals/Vulture/animalStandardMountainLionRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+       <block name="LeurreAnimal10">
+  <property name="CustomIcon" value="sleeperWolfAnimal" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreAnimal10" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Animals/Vulture/animalStandardDogZombieRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+       <block name="LeurreAnimal11">
+  <property name="CustomIcon" value="sleeperSnakeAnimal" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreAnimal11" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Animals/Vulture/snakeRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
 	</append>	
 </Valmar>

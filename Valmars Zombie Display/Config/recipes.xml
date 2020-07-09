@@ -162,5 +162,23 @@
 <recipe name="LeurreAnimal5" count="1" scrapable="False" >
   <ingredient name="foodRottingFlesh" count="36" />
 </recipe>
+<recipe name="LeurreAnimal6" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="35" />
+</recipe>
+<recipe name="LeurreAnimal7" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="35" />
+</recipe>
+<recipe name="LeurreAnimal8" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="35" />
+</recipe>
+<recipe name="LeurreAnimal9" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="36" />
+</recipe>
+<recipe name="LeurreAnimal10" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="35" />
+</recipe>
+<recipe name="LeurreAnimal11" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="35" />
+</recipe>
 </append>
 </Valmar>
