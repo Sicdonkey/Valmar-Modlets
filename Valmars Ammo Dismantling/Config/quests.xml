@@ -379,8 +379,8 @@
 	</quest>
 <!-- Shotgun Ammo -->
 <!-- Junk Turret Ammo -->
-<quest id="JunkTurretDismantle">
-		<property name="name_key" value="Dismantle Junk Turret Ammo" />
+		<quest id="JunkTurretRegularDismantle">
+		<property name="name_key" value="Dismantle Junk Turret Regular Ammo" />
 		<property name="subtitle_key" value="Dismantle Junk Turret Ammo" />
 		<property name="description_key" value="Dismantle your ammo to get their raw components." />
 		<property name="icon" value="misc_crafting" />
@@ -390,7 +390,69 @@
 		<property name="difficulty" value="easy" />
 		<property name="shareable" value="true" />
 		<reward type="Item" id="resourceScrapIron" value="3" />
-		</quest>
+		</quest>		
+		<quest id="JunkTurretRegularBundleDismantle">
+		<property name="name_key" value="Dismantle Junk Turret Regular Bundle" />
+		<property name="subtitle_key" value="Dismantle Junk Turret Regular Bundle" />
+		<property name="description_key" value="Dismantle your ammo to get their raw components." />
+		<property name="icon" value="misc_crafting" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="You've dismantled some ammo for its raw materials." />
+		<property name="difficulty" value="easy" />
+		<property name="shareable" value="true" />
+		<reward type="Item" id="resourceScrapIron" count="2400"/>
+	</quest>	
+		<quest id="JunkTurretShellDismantle">
+		<property name="name_key" value="Dismantle Junk Turret Shell Ammo" />
+		<property name="subtitle_key" value="Dismantle Junk Turret Ammo" />
+		<property name="description_key" value="Dismantle your ammo to get their raw components." />
+		<property name="icon" value="misc_crafting" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="You've dismantled some ammo for its raw materials." />
+		<property name="difficulty" value="easy" />
+		<property name="shareable" value="true" />
+		<reward type="Item" id="resourceScrapIron" count="1"/>
+		<reward type="Item" id="resourceBuckshot" count="1"/>
+		</quest>		
+		<quest id="JunkTurretShellBundleDismantle">
+		<property name="name_key" value="Dismantle Junk Turret Shell Bundle" />
+		<property name="subtitle_key" value="Dismantle Junk Turret Shell Bundle" />
+		<property name="description_key" value="Dismantle your ammo to get their raw components." />
+		<property name="icon" value="misc_crafting" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="You've dismantled some ammo for its raw materials." />
+		<property name="difficulty" value="easy" />
+		<property name="shareable" value="true" />
+		<reward type="Item" id="resourceScrapIron" count="800"/>
+		<reward type="Item" id="resourceBuckshot" count="800"/>
+	</quest>	
+		<quest id="JunkTurretAPDismantle">
+		<property name="name_key" value="Dismantle Junk Turret AP Ammo" />
+		<property name="subtitle_key" value="Dismantle Junk Turret Ammo" />
+		<property name="description_key" value="Dismantle your ammo to get their raw components." />
+		<property name="icon" value="misc_crafting" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="You've dismantled some ammo for its raw materials." />
+		<property name="difficulty" value="easy" />
+		<property name="shareable" value="true" />
+		<reward type="Item" id="resourceScrapIron" count="5"/>
+		</quest>		
+		<quest id="JunkTurretAPBundleDismantle">
+		<property name="name_key" value="Dismantle Junk Turret AP Bundle" />
+		<property name="subtitle_key" value="Dismantle Junk Turret AP Bundle" />
+		<property name="description_key" value="Dismantle your ammo to get their raw components." />
+		<property name="icon" value="misc_crafting" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="You've dismantled some ammo for its raw materials." />
+		<property name="difficulty" value="easy" />
+		<property name="shareable" value="true" />
+		<reward type="Item" id="resourceScrapIron" count="3200"/>
+	</quest>
 <!-- Junk Turret Ammo -->
 <!-- Bow Ammo -->
 <quest id="ArrowFlamingDismantle">

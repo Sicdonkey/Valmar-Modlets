@@ -222,13 +222,58 @@
 </item>
 <!-- Shotgun -->
 <!-- Junk Turret -->
-<item name="dismantleJunkTurret">
+<item name="dismantleJunkTurretRegular">
     <property name="Extends" value="questMaster" />
-    <property name="CustomIcon" value="ammoJunkTurret" />
+    <property name="CustomIcon" value="ammoJunkTurretRegular" />
 	<property name="CustomIconTint" value="ff9f9f"/>
     <property name="DescriptionKey" value="dismantleammo"/>
     <property class="Action0">
-    <property name="QuestGiven" value="JunkTurretDismantle" />
+    <property name="QuestGiven" value="JunkTurretRegularDismantle" />
+    </property>
+</item>
+<item name="dismantleJunkTurretRegularBundle">
+    <property name="Extends" value="questMaster" />
+    <property name="CustomIcon" value="ammoJunkTurretRegular" />
+	<property name="CustomIconTint" value="ffffa0"/>
+    <property name="DescriptionKey" value="dismantleammo"/>
+    <property class="Action0">
+    <property name="QuestGiven" value="JunkTurretRegularBundleDismantle" />
+    </property>
+</item>
+<item name="dismantleJunkTurretShell">
+    <property name="Extends" value="questMaster" />
+    <property name="CustomIcon" value="ammoJunkTurretShell" />
+	<property name="CustomIconTint" value="ff9f9f"/>
+    <property name="DescriptionKey" value="dismantleammo"/>
+    <property class="Action0">
+    <property name="QuestGiven" value="JunkTurretShellDismantle" />
+    </property>
+</item>
+<item name="dismantleJunkTurretShellBundle">
+    <property name="Extends" value="questMaster" />
+    <property name="CustomIcon" value="ammoJunkTurretShell" />
+	<property name="CustomIconTint" value="ffffa0"/>
+    <property name="DescriptionKey" value="dismantleammo"/>
+    <property class="Action0">
+    <property name="QuestGiven" value="JunkTurretShellBundleDismantle" />
+    </property>
+</item>
+<item name="dismantleJunkTurretAP">
+    <property name="Extends" value="questMaster" />
+    <property name="CustomIcon" value="ammoJunkTurretAP" />
+	<property name="CustomIconTint" value="ff9f9f"/>
+    <property name="DescriptionKey" value="dismantleammo"/>
+    <property class="Action0">
+    <property name="QuestGiven" value="JunkTurretAPDismantle" />
+    </property>
+</item>
+<item name="dismantleJunkTurretAPBundle">
+    <property name="Extends" value="questMaster" />
+    <property name="CustomIcon" value="ammoJunkTurretAP" />
+	<property name="CustomIconTint" value="ffffa0"/>
+    <property name="DescriptionKey" value="dismantleammo"/>
+    <property class="Action0">
+    <property name="QuestGiven" value="JunkTurretAPBundleDismantle" />
     </property>
 </item>
 <!-- Junk Turret -->

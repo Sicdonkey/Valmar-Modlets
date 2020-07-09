@@ -8,10 +8,12 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardFeralRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
-    <property name="PlaceAltBlockValue" value="LeurreZombie1,LeurreZombie2,LeurreZombie3,LeurreZombie4,LeurreZombie5,LeurreZombie6,LeurreZombie7,LeurreZombie8,LeurreZombie9,LeurreZombie10,LeurreZombie11,LeurreZombie12,LeurreZombie13,LeurreZombie14,LeurreZombie15,LeurreZombie16,LeurreZombie17,LeurreZombie18,LeurreZombie19,LeurreZombie20,LeurreZombie21,LeurreZombie22,LeurreZombie23,LeurreZombie24,LeurreZombie25,LeurreZombie26,LeurreZombie27,LeurreZombie28,LeurreZombie29,LeurreZombie30,LeurreZombie31" />
+    <property name="PlaceAltBlockValue" value="LeurreZombie1,LeurreZombie2,LeurreZombie3,LeurreZombie4,LeurreZombie5,LeurreZombie6,LeurreZombie7,LeurreZombie8,LeurreZombie9,LeurreZombie10,LeurreZombie11,LeurreZombie12,LeurreZombie13,LeurreZombie14,LeurreZombie15,LeurreZombie16,LeurreZombie17,LeurreZombie18,LeurreZombie19,LeurreZombie20,LeurreZombie21,LeurreZombie22,LeurreZombie23,LeurreZombie24,LeurreZombie25,LeurreZombie26,LeurreZombie27,LeurreZombie28,LeurreZombie29,LeurreZombie30,LeurreZombie31,LeurreZombie32,LeurreZombie33,LeurreZombie34,LeurreZombie35,LeurreZombie36,LeurreZombie37,LeurreZombie38,LeurreZombie39,LeurreZombie40,LeurreZombie41,LeurreZombie42,LeurreZombie43,LeurreZombie44,LeurreZombie45,LeurreZombie46,LeurreZombie47,LeurreZombie48,LeurreZombie49" />
   </block>
   <block name="LeurreZombie2">
   <property name="CustomIcon" value="sleeperSit" />
@@ -21,8 +23,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardBoeRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardBoeHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie3">
@@ -33,8 +37,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardFootballRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie4">
@@ -45,8 +51,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardFatLadyZRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardBigMamaHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie5">
@@ -57,8 +65,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardJoeRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardJoeHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie6">
@@ -69,8 +79,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardMoeRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardMoeHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie7">
@@ -81,8 +93,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardArleneRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardArleneHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie8">
@@ -93,8 +107,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardLabRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie9">
@@ -105,8 +121,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardScreamerRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie10">
@@ -117,8 +135,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardDarleneRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardDarleneHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie11">
@@ -129,8 +149,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardMarleneRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardMarleneHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie12">
@@ -141,8 +163,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardYoRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardYoHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie13">
@@ -153,8 +177,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardSteveRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardSteveHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie14">
@@ -165,8 +191,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
-        <property name="Model" value="Entities/Zombies/zombieStandardSteveRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardSteveHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie15">
@@ -177,8 +205,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardSuitRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie16">
@@ -189,8 +219,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardSnowRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie17">
@@ -201,8 +233,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardSpiderRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie18">
@@ -213,8 +247,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardBurntRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
    <block name="LeurreZombie19">
@@ -225,8 +261,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardNurseRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreZombie20">
@@ -237,8 +275,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardHawaiianRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie21">
@@ -249,8 +289,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardCopRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie22">
@@ -261,8 +303,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardHazmatRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie23">
@@ -273,8 +317,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardWorkerRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie24">
@@ -285,8 +331,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardSoldierRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie25">
@@ -297,8 +345,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardDemolitionRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
    <block name="LeurreZombie26">
@@ -309,8 +359,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardHoodieRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
      <block name="LeurreZombie27">
@@ -321,8 +373,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardCheerleaderRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie28">
@@ -333,8 +387,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardOldTimerRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie29">
@@ -345,8 +401,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardBikerRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie30">
@@ -357,8 +415,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardFarmerRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
     <block name="LeurreZombie31">
@@ -369,11 +429,268 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieStandardStripperRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
-    
+   <block name="LeurreZombie32">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie15" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardBoeHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+  <block name="LeurreZombie33">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie16" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardBoeHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+  <block name="LeurreZombie34">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie17" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardBigMamaHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+  <block name="LeurreZombie35">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie18" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardBigMamaHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+   <block name="LeurreZombie36">
+   <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie19" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardJoeHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+  <block name="LeurreZombie37">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie20" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardMoeHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+    <block name="LeurreZombie38">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie21" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardMoeHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+    <block name="LeurreZombie39">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie22" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardArleneHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+    <block name="LeurreZombie40">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie23" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardArleneHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>    
+    <block name="LeurreZombie41">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie24" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardDarleneHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+    <block name="LeurreZombie42">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie25" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardDarleneHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>   
+   <block name="LeurreZombie43">
+   <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie26" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardMarleneHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+     <block name="LeurreZombie44">
+	 <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie27" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardMarleneHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+    <block name="LeurreZombie45">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie28" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>	
+        <property name="Model" value="Entities/Zombies/zombieStandardYoHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+    <block name="LeurreZombie46">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie29" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardYoHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+    <block name="LeurreZombie47">
+	<property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie31" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardSteveHDRadiatedRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>  
+  <block name="LeurreZombie48">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie15" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="RotateToGround" value="true"/>
+	<property name="RootMotion" value="true"/>
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardCrawlerHDRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
+  <block name="LeurreZombie49">
+  <property name="CustomIcon" value="sleeperSit" />
+    <property name="Class" value="UpgradeRated" />
+    <property name="UpgradeRated.ToBlock" value="LeurreZombie16" />
+    <property name="UpgradeRated.Rate" value="5" />
+    <property name="Material" value="Morganic" />
+    <property name="Shape" value="ModelEntity" />
+	<property name="IsTerrainDecoration" value="true"/>
+	<property name="RotateToGround" value="true"/>
+	<property name="RootMotion" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
+        <property name="Model" value="Entities/Zombies/zombieStandardCrawlerHDFeralRagdoll" />
+		<property name="ModelOffset" value="0,1,0"/>
+    <drop event="Destroy" count="0" />
+  </block>
   <block name="LeurreAnimal1">
   <property name="CustomIcon" value="sleeperWolfAnimal" />
     <property name="Class" value="UpgradeRated" />
@@ -382,9 +699,11 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Animals/Stag/STAG" />
     <property name="PlaceAltBlockValue" value="LeurreAnimal1,LeurreAnimal2,LeurreAnimal3,LeurreAnimal4,LeurreAnimal5" />
-	<property name="ModelOffset" value="0,0,0"/>
+	<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreAnimal2">
@@ -395,8 +714,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Zombies/zombieDogPrefab" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreAnimal3">
@@ -407,8 +728,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Animals/Boar/BOAR" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreAnimal4">
@@ -419,8 +742,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Animals/Pig/PIG" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
   <block name="LeurreAnimal5">
@@ -431,8 +756,10 @@
     <property name="Material" value="Morganic" />
     <property name="Shape" value="ModelEntity" />
 	<property name="IsTerrainDecoration" value="true"/>
+	<property name="IsDecoration" value="true"/>
+	<property name="CanDecorateOnSlopes" value="true"/>
         <property name="Model" value="Entities/Animals/Vulture/animalVultureStandardRagdoll" />
-		<property name="ModelOffset" value="0,0,0"/>
+		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>  
 	</append>	

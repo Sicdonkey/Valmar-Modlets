@@ -93,6 +93,60 @@
 <recipe name="LeurreZombie31" count="1" scrapable="False" >
   <ingredient name="foodRottingFlesh" count="31" />
 </recipe>
+<recipe name="LeurreZombie32" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="1" />
+</recipe>
+<recipe name="LeurreZombie33" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="2" />
+</recipe>
+<recipe name="LeurreZombie34" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="3" />
+</recipe>
+<recipe name="LeurreZombie35" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="4" />
+</recipe>
+<recipe name="LeurreZombie36" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="5" />
+</recipe>
+<recipe name="LeurreZombie37" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="6" />
+</recipe>
+<recipe name="LeurreZombie38" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="7" />
+</recipe>
+<recipe name="LeurreZombie39" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="8" />
+</recipe>
+<recipe name="LeurreZombie40" count="1" scrapable="False" >
+   <ingredient name="foodRottingFlesh" count="9" />
+</recipe>
+<recipe name="LeurreZombie41" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="10" />
+</recipe>
+<recipe name="LeurreZombie42" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="11" />
+</recipe>
+<recipe name="LeurreZombie43" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="12" />
+</recipe>
+<recipe name="LeurreZombie44" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="13" />
+</recipe>
+<recipe name="LeurreZombie45" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="14" />
+</recipe>
+<recipe name="LeurreZombie46" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="15" />
+</recipe>
+<recipe name="LeurreZombie47" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="16" />
+</recipe>
+<recipe name="LeurreZombie48" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="17" />
+</recipe>
+<recipe name="LeurreZombie49" count="1" scrapable="False" >
+  <ingredient name="foodRottingFlesh" count="18" />
+</recipe>
 <recipe name="LeurreAnimal1" count="1" scrapable="False" >
    <ingredient name="foodRottingFlesh" count="32" />
 </recipe>

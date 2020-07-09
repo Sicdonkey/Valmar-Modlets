@@ -171,7 +171,7 @@
     <item name="combatAxe">
         <property name="CustomIcon" value="combatAxe" />
 		<property name="DescriptionKey" value="combatAxeDesc"/>
-        <property name="Extends" value="meleeToolFireaxeIron"/>
+        <property name="Extends" value="meleeToolAxeT1IronFireaxe"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Axe/fireaxePrefab.prefab"/>
 	<property name="EconomicValue" value="700"/>
 	<property name="UnlockedBy" value="meleeToolSteelSetSchematic"/>
@@ -219,7 +219,7 @@
 	<property name="DisplayType" value="meleeKnife"/>
 	<property name="HoldType" value="47"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Knives/machetePrefab.prefab"/>
-	<property name="Material" value="MmeleeToolKnifeMachete"/> <property name="Weight" value="6"/>
+	<property name="Material" value="MmeleeWpnBladeParts"/> <property name="Weight" value="6"/>
 	<property name="RepairTools" value="resourceRepairKit"/>
 	<property name="DegradationBreaksAfter" value="false"/>
 	<property name="EconomicValue" value="100"/>

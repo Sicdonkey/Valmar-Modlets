@@ -65,9 +65,7 @@
 		<item name="modFuelTankSmallSchematic" prob="0.05"/>
 		<item name="modFuelTankLargeSchematic" prob="0.05"/>
 		<item name="medicalFirstAidBandageSchematic" prob="0.05"/>
-		<item name="medicalBloodDrawKitSchematic" prob="0.05"/>
 		<item name="resourceMilitaryFiberSchematic" prob="0.05"/>
-		<item name="modGunRodAndSpringSchematic" prob="0.05"/>
 		<item name="modGunScopeLargeSchematic" prob="0.05"/>
 		<item name="modGunLaserSightSchematic" prob="0.05"/>
 		<item name="modGunTriggerGroupBurst3Schematic" prob="0.05"/>
@@ -87,53 +85,60 @@
 		<item name="drugAntibioticsSchematic" prob="0.05"/>
 		<item name="drugHerbalAntibioticsSchematic" prob="0.05"/>
 		<item name="forgeSchematic" prob="0.05"/>
+		<item name="meleeToolRepairT3NailgunSchematic" prob="0.05"/>
+		<item name="meleeToolSalvageT2RatchetSchematic" prob="0.05"/>
+		<item name="meleeToolSalvageT3ImpactDriverSchematic" prob="0.05"/>
+		<item name="meleeWpnSledgeT3SteelSledgehammerSchematic" prob="0.05"/>
+		<item name="meleeToolPickT3AugerSchematic" prob="0.05"/>
 		<item name="meleeToolIronSetSchematic" prob="0.05"/>
-		<item name="meleeToolWrenchSchematic" prob="0.05"/>
-		<item name="meleeToolKnifeIronSchematic" prob="0.05"/>
-		<item name="meleeToolSledgehammerIronSchematic" prob="0.05"/>
+		<item name="meleeToolAxeT3ChainsawSchematic" prob="0.05"/>
 		<item name="ammoGasCanSchematic" prob="0.05"/>
 		<item name="resourceOilSchematic" prob="0.05"/>
-		<item name="gunToolNailgunSchematic" prob="0.05"/>
 		<item name="meleeToolSteelSetSchematic" prob="0.05"/>
-		<item name="meleeToolSledgehammerSteelSchematic" prob="0.05"/>
-		<item name="meleeToolAugerSchematic" prob="0.05"/>
-		<item name="meleeToolChainsawSchematic" prob="0.05"/>
+		<item name="meleeWpnBladeT1HuntingKnifeSchematic" prob="0.05"/>
+		<item name="meleeToolSalvageT1WrenchSchematic" prob="0.05"/>
+		<item name="meleeWpnSledgeT1IronSledgehammerSchematic" prob="0.05"/>
+		<item name="meleeToolPickT3AugerSchematic" prob="0.05"/>
+		<item name="meleeToolAxeT3ChainsawSchematic" prob="0.05"/>
 		<item name="toolBellowsSchematic" prob="0.05"/>
 		<item name="toolForgeCrucibleSchematic" prob="0.05"/>
 		<item name="toolAnvilSchematic" prob="0.05"/>
-		<item name="tableSawSchematic" prob="0.05"/>
 		<item name="cementMixerSchematic" prob="0.05"/>
 		<item name="workbenchSchematic" prob="0.05"/>
 		<item name="chemistryStationSchematic" prob="0.05"/>
-		<item name="gunPistolSchematic" prob="0.05"/>
-		<item name="gunDoubleBarrelShotgunSchematic" prob="0.05"/>
-		<item name="gunHuntingRifleSchematic" prob="0.05"/>
-		<item name="gunAK47Schematic" prob="0.05"/>
-		<item name="gunBowWoodenSchematic" prob="0.05"/>
-		<item name="gunCrossbowIronSchematic" prob="0.05"/>
-		<item name="gunJunkTurretSchematic" prob="0.05"/>
+		<item name="gunHandgunT1PistolSchematic" prob="0.05"/>
+		<item name="gunShotgunT1DoubleBarrelSchematic" prob="0.05"/>
+		<item name="gunRifleT1HuntingRifleSchematic" prob="0.05"/>
+		<item name="gunMGT1AK47Schematic" prob="0.05"/>
+		<item name="gunBowT1WoodenBowSchematic" prob="0.05"/>
+		<item name="gunBowT1IronCrossbowSchematic" prob="0.05"/>
+		<item name="gunBotT1JunkSledgeSchematic" prob="0.05"/>
 		<item name="thrownAmmoPipeBombSchematic" prob="0.05"/>
 		<item name="thrownGrenadeSchematic" prob="0.05"/>
-		<item name="meleeToolKnifeIronSchematic" prob="0.05"/>
-		<item name="meleeClubIronSchematic" prob="0.05"/>
-		<item name="meleeStunBatonSchematic" prob="0.05"/>
-		<item name="meleeThrownSpearIronSchematic" prob="0.05"/>
-		<item name="meleeKnucklesIronSchematic" prob="0.05"/>
-		<item name="gunBowCompoundSchematic" prob="0.05"/>
-		<item name="gunCrossbowCompoundSchematic" prob="0.05"/>
-		<item name="gun44MagnumSchematic" prob="0.05"/>
-		<item name="gunPumpShotgunSchematic" prob="0.05"/>
-		<item name="gunSMG5Schematic" prob="0.05"/>
-		<item name="gunMR10Schematic" prob="0.05"/>
-		<item name="gunRocketLauncherSchematic" prob="0.05"/>
+		<item name="meleeWpnBatonT2StunBatonSchematic" prob="0.05"/>
+		<item name="meleeWpnSpearT1IronSpearSchematic" prob="0.05"/>
+		<item name="meleeWpnKnucklesT1IronKnucklesSchematic" prob="0.05"/>
+		<item name="gunBowT3CompoundBowSchematic" prob="0.05"/>
+		<item name="gunBowT3CompoundCrossbowSchematic" prob="0.05"/>
+		<item name="gunBotT2JunkTurretSchematic" prob="0.05"/>
+		<item name="gunHandgunT3SMG5Schematic" prob="0.05"/>
+		<item name="gunHandgunT2Magnum44Schematic" prob="0.05"/>
+		<item name="gunHandgunT3DesertVultureSchematic" prob="0.05"/>
+		<item name="gunShotgunT2PumpShotgunSchematic" prob="0.05"/>
+		<item name="gunShotgunT3AutoShotgunSchematic" prob="0.05"/>
+		<item name="gunRifleT2MarksmanRifleSchematic" prob="0.05"/>
+		<item name="gunRifleT3SniperRifleSchematic" prob="0.05"/>
+		<item name="gunMGT2TacticalARSchematic" prob="0.05"/>
+		<item name="gunMGT3M60Schematic" prob="0.05"/>
+		<item name="gunExplosivesT3RocketLauncherSchematic" prob="0.05"/>
+		<item name="meleeWpnBladeT3MacheteSchematic" prob="0.05"/>
 		<item name="thrownDynamiteSchematic" prob="0.05"/>
 		<item name="thrownGrenadeContactSchematic" prob="0.05"/>
-		<item name="meleeKnucklesSteelSchematic" prob="0.05"/>
+		<item name="meleeWpnKnucklesT3SteelKnucklesSchematic" prob="0.05"/>
 		<item name="thrownGrenadeContactSchematic" prob="0.05"/>
 		<item name="thrownGrenadeSchematic" prob="0.05"/>
 		<item name="thrownDynamiteSchematic" prob="0.05"/>
-		<item name="meleeToolKnifeMacheteSchematic" prob="0.05"/>
-		<item name="meleeThrownSpearSteelSchematic" prob="0.05"/>
+		<item name="meleeWpnBladeT3MacheteSchematic" prob="0.05"/>
 		<item name="armorLeatherSetSchematic" prob="0.05"/>
 		<item name="armorIronSetSchematic" prob="0.05"/>
 		<item name="armorMilitarySetSchematic" prob="0.05"/>
@@ -295,10 +300,10 @@
 		<item name="bookSniperCripplingShot" prob="0.05"/>
 		<item name="bookSniperDamage" prob="0.05"/>
 		<item name="bookSniperHeadShot" prob="0.05"/>
-		<item name="bookSniperGhost" prob="0.05"/>
+		<item name="bookSniperReload" prob="0.05"/>
 		<item name="bookSniperHPAmmo" prob="0.05"/>
 		<item name="bookUrbanCombatAdrenalineRush" prob="0.05"/>
-		<item name="bookUrbanCombatControlledBreathing" prob="0.05"/>
+		<item name="bookUrbanCombatCigar" prob="0.05"/>
 		<item name="bookUrbanCombatRoomClearing" prob="0.05"/>
 		<item name="bookUrbanCombatJumping" prob="0.05"/>
 		<item name="bookUrbanCombatLandMines" prob="0.05"/>
@@ -315,7 +320,7 @@
 	</insertAfter>
 	<insertAfter xpath="/lootcontainers/lootgroup[@name='SupplyPerkBooks']">	
 	<lootgroup name="SupplyFood" count="1,6">
-       <item name="foodCanBeef"/>
+		<item name="foodCanBeef"/>
 		<item name="foodCanCatfood"/>
 		<item name="foodCanChicken"/>
 		<item name="foodCanChili"/>
@@ -332,44 +337,65 @@
 		<item name="foodCanPears"/>
 		<item name="foodHoney"/>
 		<item name="foodCornMeal"/>
+		<item name="drugAtomJunkies"/>
+		<item name="drugCovertCats"/>
+		<item name="drugEyeKandy"/>
+		<item name="drugHackers"/>
+		<item name="drugHealthBar"/>
+		<item name="drugJailBreakers"/>
+		<item name="drugNerdTats"/>
+		<item name="drugOhShitzDrops"/>
+		<item name="drugRockBusters"/>
+		<item name="drugSkullCrushers"/>
+		<item name="drugSugarButts"/>
 		</lootgroup>
 	</insertAfter>
 	<insertAfter xpath="/lootcontainers/lootgroup[@name='SupplyFood']">
 	<lootgroup name="SupplyParts" count="1,3">
-		<item name="gunAk47Parts" count="1,4"/>
-		<item name="gunPistolParts" count="1,4"/>
-		<item name="gunBowWoodenParts" count="1,4"/>
-		<item name="gunHuntingRifleParts" count="1,4"/>
-		<item name="gunDoubleBarrelShotgunParts" count="1,4"/>
-		<item name="gunRocketLauncherParts" count="1,4"/>
-		<item name="gunJunkTurretParts" count="1,4"/>
-		<item name="meleeStunBatonParts" count="1,4"/>
-		<item name="meleeToolKnifeMacheteParts" count="1,4"/>
-		<item name="meleeThrownSpearSteelParts" count="1,4"/>
-		<item name="meleeClubBaseballBatParts" count="1,4"/>
-		<item name="meleeToolSledgehammerSteelParts" count="1,4"/>
+		<item name="gunMGT1AK47Parts" count="1,4"/>
+		<item name="gunHandgunT1PistolParts" count="1,4"/>
+		<item name="gunBowT1WoodenBowParts" count="1,4"/>
+		<item name="gunRifleT1HuntingRifleParts" count="1,4"/>
+		<item name="gunShotgunT1DoubleBarrelParts" count="1,4"/>
+		<item name="gunExplosivesT3RocketLauncherParts" count="1,4"/>
+		<item name="gunBotRoboticsParts" count="1,4"/>		
+		<item name="meleeWpnBatonT2StunBatonParts" count="1,4"/>
+		<item name="meleeWpnBladeT3MacheteParts" count="1,4"/>
+		<item name="meleeWpnSpearT3SteelSpearParts" count="1,4"/>
+		<item name="meleeWpnClubT3SteelClubParts" count="1,4"/>
+		<item name="meleeWpnSledgeT3SteelSledgehammerParts" count="1,4"/>
+		<item name="meleeWpnKnucklesT3SteelKnucklesParts" count="1,4"/>
+		<item name="meleeToolAxeT3ChainsawParts" count="1,4"/>
+		<item name="meleeToolSalvageParts" count="1,4"/>
+		<item name="meleeToolAllSteelParts" count="1,4"/>
+		<item name="armorMilitarySetParts" count="1,4"/>
 	 </lootgroup>
 	</insertAfter>
 	 <insertAfter xpath="/lootcontainers/lootgroup[@name='SupplyParts']">
     <lootgroup name="SupplyWeapons" count="1,3">
-	    <item name="gunPistol"/>
-		<item name="gunPumpShotgun"/>
-		<item name="gunDoubleBarrelShotgun"/>
-		<item name="gunSMG5"/>
-		<item name="gunBowWooden"/>
-		<item name="gunBowCompound"/>
-		<item name="gunCrossbowIron"/>
-		<item name="gunAK47"/>
-		<item name="gunCrossbowCompound"/>
-		<item name="gunHuntingRifle"/>
-		<item name="gunMR10"/>
-		<item name="gunM60"/>
-		<item name="gunRocketLauncher"/>
-		<item name="gun44Magnum"/>
-		<item name="gunBlunderbuss"/>
-		<item name="gunTacticalAR"/>
-		<item name="gunBowPrimitive"/>
-		<item name="gunJunkTurret"/>
+	    <item name="gunHandgunT1Pistol"/>
+		<item name="gunHandgunT3SMG5"/>
+		<item name="gunHandgunT2Magnum44"/>
+		<item name="gunHandgunT3DesertVulture"/>
+		<item name="gunShotgunT0Blunderbuss"/>
+		<item name="gunShotgunT1DoubleBarrel"/>
+		<item name="gunShotgunT2PumpShotgun"/>
+		<item name="gunShotgunT3AutoShotgun"/>
+		<item name="gunRifleT1HuntingRifle"/>
+		<item name="gunRifleT2MarksmanRifle"/>
+		<item name="gunRifleT3SniperRifle"/>
+		<item name="gunMGT1AK47"/>
+		<item name="gunMGT2TacticalAR"/>
+		<item name="gunMGT3M60"/>
+		<item name="gunExplosivesT3RocketLauncher"/>
+		<item name="gunBowT0PrimitiveBow"/>
+		<item name="gunBowT1WoodenBow"/>
+		<item name="gunBowT3CompoundBow"/>
+		<item name="gunBowT1IronCrossbow"/>
+		<item name="gunBowT3CompoundCrossbow"/>
+		<item name="gunBotT1JunkSledge"/>
+		<item name="gunBotT2JunkTurret"/>
+		<!--<item name="gunBotT3JunkDrone"/>-->
 		</lootgroup>
 	</insertAfter>
 	<insertAfter xpath="/lootcontainers/lootgroup[@name='SupplyWeapons']">	
@@ -377,7 +403,6 @@
         <item name="medicalFirstAidKit" count="1,10"/>
 		<item name="toolBeaker" count="1,10"/>
 		<item name="drugAntibiotics" count="1,10"/>
-		<item name="medicalBloodDrawKit" count="1,10"/>
 		<item name="drugSteroids" count="1,10"/>
 		<item name="drugRecog" count="1,10"/>
 		<item name="drugFortBites" count="1,10"/>
@@ -406,7 +431,9 @@
         <item name="ammoShotgunSlug" count="15,30"/>
         <item name="ammoShotgunBreachingSlug" count="15,30"/>
         <item name="ammoBlunderbuss" count="15,30"/>
-        <item name="ammoJunkTurret" count="15,30"/>
+        <item name="ammoJunkTurretRegular" count="15,30"/>
+		<item name="ammoJunkTurretShell" count="15,30"/>
+		<item name="ammoJunkTurretAP" count="15,30"/>
 		<item name="ammoRocketHE" count="15,30"/>
         <item name="ammoRocketFrag" count="15,30"/>
         <item name="ammoGasCan" count="15,30"/>
@@ -437,7 +464,10 @@
         <item name="ammoBundleShotgunSlug" count="5"/>
         <item name="ammoBundleShotgunBreachingSlug" count="5"/>
         <item name="ammoBundleBlunderbuss" count="5"/>
-        <item name="ammoBundleArrowStone" count="5"/>
+		<item name="ammoBundleJunkTurretRegular" count="5"/>
+        <item name="ammoBundleJunkTurretShell" count="5"/>
+		<item name="ammoBundleJunkTurretAP" count="5"/>
+		<item name="ammoBundleArrowStone" count="5"/>
         <item name="ammoBundleArrowIron" count="5"/>
 		<item name="ammoBundleArrowSteelAP" count="5"/>
 		<item name="ammoBundleArrowFlaming" count="5"/>
@@ -451,17 +481,20 @@
 	</insertAfter>
 	<insertAfter xpath="/lootcontainers/lootgroup[@name='SupplyAmmoBundles']">
     <lootgroup name="SupplyTools" count="1,3">
-        <item name="meleeToolWrench"/>
-        <item name="meleeToolStoneAxe"/>
-        <item name="meleeToolClawHammer"/>
-        <item name="gunToolNailgun"/>
-        <item name="meleeToolFireaxeIron"/>
-        <item name="meleeToolPickaxeSteel"/>
-        <item name="meleeToolShovelSteel"/>  
-        <item name="meleeToolChainsaw"/>  
-        <item name="meleeToolAuger"/>  
-        <item name="meleeToolKnifeMachete"/>     
-        <item name="meleeToolHoeIron"/> 
+        <item name="meleeToolSalvageT1Wrench"/>
+        <item name="meleeToolRepairT0StoneAxe"/>
+        <item name="meleeToolRepairT1ClawHammer"/>
+        <item name="meleeToolRepairT3Nailgun"/>
+        <item name="meleeToolAxeT1IronFireaxe"/>
+        <item name="meleeToolPickT1IronPickaxe"/>
+        <item name="meleeToolShovelT2SteelShovel"/>  
+        <item name="meleeToolAxeT3Chainsaw"/>  
+        <item name="meleeToolPickT3Auger"/>  
+		<item name="meleeToolAxeT3Chainsaw"/>  
+        <item name="meleeToolSalvageT1Wrench"/>  
+        <item name="meleeToolSalvageT2Ratchet"/> 
+		 <item name="meleeToolSalvageT3ImpactDriver"/> 
+        <item name="meleeToolFarmT1IronHoe"/> 
 		<item name="meleeToolPaintTool" />
 		<item name="meleeToolWireTool"/>
         </lootgroup>

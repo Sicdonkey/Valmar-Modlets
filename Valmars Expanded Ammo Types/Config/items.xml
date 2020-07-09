@@ -176,15 +176,23 @@
 <append xpath="/items/item[@name='ammoBundleShotgunSlug']/property[@class='Action0']/property[@name='Create_item']/@value">,shotgunShellINC,SiegeShell</append>
 <append xpath="/items/item[@name='ammoBundleBlunderbuss']/property[@class='Action0']/property[@name='Create_item']/@value">,blunderbussAmmoShredder</append>
 
-<append xpath="/items/item[@name='gunPistol']/property[@class='Action0']/property[@name='Magazine_items']/@value">,9mmBulletINC</append>
-<append xpath="/items/item[@name='gun44Magnum']/property[@class='Action0']/property[@name='Magazine_items']/@value">,44MagBulletINC</append>
-<append xpath="/items/item[@name='gunSMG5']/property[@class='Action0']/property[@name='Magazine_items']/@value">,9mmBulletBall,9mmBulletHP,9mmBulletAP</append>
-<append xpath="/items/item[@name='gunBlunderbuss']/property[@class='Action0']/property[@name='Magazine_items']/@value">,blunderbussAmmoShredder</append>
-<append xpath="/items/item[@name='gunDoubleBarrelShotgun']/property[@class='Action0']/property[@name='Magazine_items']/@value">,shotgunShellINC,SiegeShell</append>
-<append xpath="/items/item[@name='gunPumpShotgun']/property[@class='Action0']/property[@name='Magazine_items']/@value">,shotgunShellINC,SiegeShell</append>
-<append xpath="/items/item[@name='gunHuntingRifle']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
-<append xpath="/items/item[@name='gunMR10']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
-<append xpath="/items/item[@name='gunAK47']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
-<append xpath="/items/item[@name='gunTacticalAR']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
-<append xpath="/items/item[@name='gunM60']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+<append xpath="/items/item[@name='gunHandgunT1Pistol']/property[@class='Action0']/property[@name='Magazine_items']/@value">,9mmBulletINC</append>
+<append xpath="/items/item[@name='gunHandgunT2Magnum44']/property[@class='Action0']/property[@name='Magazine_items']/@value">,44MagBulletINC</append>
+<append xpath="/items/item[@name='gunHandgunT3SMG5']/property[@class='Action0']/property[@name='Magazine_items']/@value">,9mmBulletINC</append>
+<append xpath="/items/item[@name='gunHandgunT3DesertVulture']/property[@class='Action0']/property[@name='Magazine_items']/@value">,44MagBulletINC</append>
+
+<append xpath="/items/item[@name='gunShotgunT0Blunderbuss']/property[@class='Action0']/property[@name='Magazine_items']/@value">,blunderbussAmmoShredder</append>
+
+<append xpath="/items/item[@name='gunShotgunT1DoubleBarrel']/property[@class='Action0']/property[@name='Magazine_items']/@value">,shotgunShellINC,SiegeShell</append>
+<append xpath="/items/item[@name='gunShotgunT2PumpShotgun']/property[@class='Action0']/property[@name='Magazine_items']/@value">,shotgunShellINC,SiegeShell</append>
+<append xpath="/items/item[@name='gunShotgunT3AutoShotgun']/property[@class='Action0']/property[@name='Magazine_items']/@value">,shotgunShellINC,SiegeShell</append>
+
+<append xpath="/items/item[@name='gunRifleT1HuntingRifle']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+<append xpath="/items/item[@name='gunRifleT2MarksmanRifle']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+<append xpath="/items/item[@name='gunRifleT3SniperRifle']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+
+<append xpath="/items/item[@name='gunMGT1AK47']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+<append xpath="/items/item[@name='gunMGT2TacticalAR']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+<append xpath="/items/item[@name='gunMGT3M60']/property[@class='Action0']/property[@name='Magazine_items']/@value">,762mmBulletINC</append>
+
 </Valmar>
