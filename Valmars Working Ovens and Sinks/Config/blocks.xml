@@ -9,7 +9,7 @@
 		<property name="Stacknumber" value="1" />
 		<property name="Material" value="Mwood_weak" />
 		<property name="Texture" value="346,345,341,345,262,345" />
-		<property name="LootList" value="401" />
+		<property name="LootList" value="427" />
 		<drop event="Destroy" name="workstationOven" count="1" />
 		<drop event="Fall" name="woodDebris" count="1" prob="1.0"  stick_chance=".75" />
 		<property name="HeatMapStrength" value="1"/>
@@ -27,14 +27,14 @@
 		<property name="Extends" value="cntGraniteSink" />
 		<property name="CustomIcon" value="cntGraniteSink" />
 		<property name="Class" value="SecureLoot" />
-		<property name="LootList" value="130" />
+		<property name="LootList" value="427" />
 	</block>
 	<block name="workingCabinetSink">
 		<property name="DescriptionKey" value="WorkingSinkDesc"/>
 		<property name="Extends" value="cntCabinetOldSink" />
 		<property name="CustomIcon" value="cntCabinetOldSink" />
 		<property name="Class" value="SecureLoot" />
-		<property name="LootList" value="401" />
+		<property name="LootList" value="427" />
 	</block>
 	</append>	
 </Valmar>
