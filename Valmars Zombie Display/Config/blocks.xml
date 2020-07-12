@@ -773,7 +773,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
-        <property name="Model" value="Entities/Animals/Vulture/animalStandardWolfRagdoll" />
+        <property name="Model" value="Entities/Animals/Wolf/animalStandardWolfRagdoll" />
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>  
@@ -787,7 +787,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
-        <property name="Model" value="Entities/Animals/Vulture/animalBearStandardRagdoll" />
+        <property name="Model" value="Entities/Animals/Bear/animalBearStandardRagdoll" />
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>   
@@ -801,7 +801,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
-        <property name="Model" value="Entities/Animals/Vulture/animalStandardCoyoteRagdoll" />
+        <property name="Model" value="Entities/Animals/Wolf/animalStandardCoyoteRagdoll" />
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
@@ -815,7 +815,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
-        <property name="Model" value="Entities/Animals/Vulture/animalStandardMountainLionRagdoll" />
+        <property name="Model" value="Entities/Animals/Mountain_Lion/animalStandardMountainLionRagdoll" />
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
@@ -829,7 +829,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
-        <property name="Model" value="Entities/Animals/Vulture/animalStandardDogZombieRagdoll" />
+        <property name="Model" value="Entities/Animals/Wolf/animalStandardDogZombieRagdoll" />
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>
@@ -843,7 +843,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
 	<property name="IsDecoration" value="true"/>
 	<property name="CanDecorateOnSlopes" value="true"/>
-        <property name="Model" value="Entities/Animals/Vulture/snakeRagdoll" />
+        <property name="Model" value="Entities/Animals/Snake/snake_Prefab" />
 		<property name="ModelOffset" value="0,1,0"/>
     <drop event="Destroy" count="0" />
   </block>

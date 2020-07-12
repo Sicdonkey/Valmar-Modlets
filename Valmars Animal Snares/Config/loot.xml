@@ -1,5 +1,5 @@
 <Valmar>
-<append xpath="/lootcontainers/lootgroup[@name='commonBooks']">	
+<append xpath="/lootcontainers/lootgroup[@name='booksRareOnlyScaled']">	
 		<item name="recipebookAnimalTraps" count="1" />
 </append>
 <insertAfter xpath="/lootcontainers/lootgroup[@name='groupBirdNestMain']">

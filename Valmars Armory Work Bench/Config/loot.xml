@@ -1,5 +1,5 @@
 <Valmar>
-<append xpath="/lootcontainers/lootgroup[@name='rareTools']">	
+<append xpath="/lootcontainers/lootgroup[@name='groupToolsT2']">	
 		<item name="weldingTorch" count="1" />
 </append>
 

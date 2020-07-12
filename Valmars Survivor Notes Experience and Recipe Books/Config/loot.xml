@@ -1,9 +1,9 @@
 <Valmar>
 	<!-- LOOT GROUPS -->
-<append xpath="/lootcontainers/lootgroup[@name='commonBooks']" >
+<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']" >
 	 <item name="survivorNotes" count="1" prob="0.18" />
 	</append>
-<append xpath="/lootcontainers/lootgroup[@name='booksNoFiller']" >
+<append xpath="/lootcontainers/lootgroup[@name='perkBooks']" >
 	 <item name="survivorNotes" count="1" prob="0.18" />
 	</append>	
 <append xpath="/lootcontainers/lootgroup[@name='cupboard']" >
@@ -36,7 +36,7 @@
 <append xpath="/lootcontainers/lootgroup[@name='banditsGeneral']" >
 	 <item name="survivorNotes" count="1" prob="0.18" />
 	</append>
-<append xpath="/lootcontainers/lootgroup[@name='rareBooks']" >
+<append xpath="/lootcontainers/lootgroup[@name='booksRareOnlyScaled']" >
 	 <item name="survivorNotes" count="1" prob="0.18" />
 	</append>
 <append xpath="/lootcontainers/lootgroup[@name='labEquipment']" >

@@ -536,7 +536,7 @@
     <lootgroup name="SupplyGeneric" count="all">
         <item group="groupApparelClothes"/>
         <item group="seeds"/>
-        <item group="books"/>
+        <item group="booksAllScaled"/>
        </lootgroup>
 	</insertAfter>
 	<insertAfter xpath="/lootcontainers/lootgroup[@name='SupplyGeneric']">

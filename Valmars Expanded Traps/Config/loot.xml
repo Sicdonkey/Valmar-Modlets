@@ -21,7 +21,7 @@
 <append xpath="/lootcontainers/lootgroup[@name='automotive']" >
 	 <item name="trapGasCan" count="1" prob="0.18" />
 	</append>
-<append xpath="/lootcontainers/lootgroup[@name='rareTools']" >
+<append xpath="/lootcontainers/lootgroup[@name='groupToolsT2']" >
 	 <item name="gunTrapNailgun" count="1" prob="0.18" />
 	 <item name="trapGasCan" count="1" prob="0.18" />
 	</append>
