@@ -4,7 +4,7 @@
 	<!-- HUNTER -->
 	<quest id="challenge_hunter1" group_name_key="quest_hunter" name="Hunter Quest" subtitle="Hunter Challenge" description="Go kill some animals" icon="ui_game_symbol_archery" 
 		repeatable="false" category_key="challenge" offer="A real hunter knows how to track and kill his prey.  Go show us you have what it takes." difficulty="easy">
-		<requirement type="Holding" id="gunHuntingRifle" />
+		<requirement type="Holding" id="gunRifleT1HuntingRifle" />
 		<objective type="AnimalKill" value="15"  />
 		<reward type="Quest" id="hunter_visit_trader" />
 	</quest>
@@ -26,15 +26,15 @@
 				</objective>
 				<reward type="Exp" value="100"/>
 				<reward type="Exp" value="100"/>
-				<reward type="Item" id="meleeToolKnifeMacheteSchematic" value="1" />
-				<reward type="Item" id="meleeToolKnifeMachete" value="1" />
+				<reward type="Item" id="meleeWpnBladeT3MacheteSchematic" value="1" />
+				<reward type="Item" id="meleeWpnBladeT3Machete" value="1" />
 				<reward type="Item" id="ammo762mmBulletBall" value="120" />
 				<reward type="Quest" id="challenge_hunter2" />				
 	</quest>
 	
 	<quest id="challenge_hunter2" group_name_key="quest_hunter" name="Hunter Quest 2/3" subtitle="Hunter Challenge 2" description="Go kill some animals" icon="ui_game_symbol_archery" 
 		repeatable="false" category_key="challenge" offer="You did good rookie, now do it again.  " difficulty="Medium">
-		<requirement type="Holding" id="gunHuntingRifle" />
+		<requirement type="Holding" id="gunRifleT1HuntingRifle" />
 		<objective type="AnimalKill" value="20"  />
 		<reward type="Quest" id="hunter_visit_trader2" />
 	</quest>
@@ -55,15 +55,15 @@
 				<property name="phase" value="3" />
 				</objective>
 				<reward type="Exp" value="200" phase="1" />
-				<reward type="Item" id="gunBowCompoundSchematic" value="1" />
-				<reward type="Item" id="gunBowCompound" value="1" />
+				<reward type="Item" id="gunBowT3CompoundBowSchematic" value="1" />
+				<reward type="Item" id="gunBowT3CompoundBow" value="1" />
 				<reward type="Item" id="ammoArrowSteelAP" value="100" />
 				<reward type="Quest" id="challenge_hunter3" />
 	</quest>
 	
 	<quest id="challenge_hunter3" group_name_key="quest_hunter" name="Hunter Quest 3/3" subtitle="Hunter Challenge 3" description="Go kill some animals" icon="ui_game_symbol_archery" 
 		repeatable="false" category_key="challenge" offer="So you got some talent.  Lets see if you can manage to accomplish this task.  " difficulty="Hard">
-		<requirement type="Holding" id="gunBowCompound" />
+		<requirement type="Holding" id="gunBowT3CompoundBow" />
 		<objective type="AnimalKill" value="30"  />
 		<reward type="Quest" id="hunter_visit_trader3" />
 	</quest>
@@ -84,8 +84,8 @@
 				<property name="phase" value="3" />
 				</objective>
 				<reward type="Exp" value="300"/>
-				<reward type="Item" id="gunPistolSchematic" count="1" />
-				<reward type="Item" id="gunPistol" count="1" />
+				<reward type="Item" id="gunHandgunT1PistolSchematic" count="1" />
+				<reward type="Item" id="gunHandgunT1Pistol" count="1" />
 				<reward type="Item" id="ammo9mmBulletBall" count="50" />
 				<reward type="Item" id="bookNightStalkerBlades" count="1" />
 				<reward type="Item" id="bookNightStalkerArchery" count="1" />
@@ -153,9 +153,9 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="meleeToolSledgehammerSteelSchematic" value="1" />
-		<reward type="Item" id="meleeToolSledgehammerSteel" value="1" />
-		<reward type="Item" id="meleeToolSledgehammerSteelParts" value="5" />
+		<reward type="Item" id="meleeWpnSledgeT3SteelSledgehammerSchematic" value="1" />
+		<reward type="Item" id="meleeWpnSledgeT3SteelSledgehammer" value="1" />
+		<reward type="Item" id="meleeWpnSledgeT3SteelSledgehammerParts" value="5" />
 		<reward type="Quest" id="challenge_builder3" />
 	</quest>
 	
@@ -181,10 +181,9 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="300"/>
-		<reward type="Item" id="gunToolNailgunSchematic" count="1" />
-		<reward type="Item" id="gunToolNailgun" count="1" />
+		<reward type="Item" id="meleeToolRepairT3NailgunSchematic" count="1" />
+		<reward type="Item" id="meleeToolRepairT3Nailgun" count="1" />
 		<reward type="Item" id="resourceNail" count="150" />
-		<reward type="Item" id="tableSawSchematic" count="1" />
 		<reward type="Item" id="cementMixerSchematic" count="1" />
 		<reward type="Item" id="workbenchSchematic" count="1" />
 		<reward type="Item" id="bookFiremansAlmanacAxes" count="1" />
@@ -201,7 +200,7 @@
 	<!-- RIFLEMAN -->
 	<quest id="challenge_rifleman1" group_name_key="quest_rifleman" name="Rifleman Quest" subtitle="Rifleman Challenge" description="Snipe some zombies" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="A single shot is all it takes, show your skill with your rifle and kill some zombies. " difficulty="easy">
-		<requirement type="Holding" id="gunHuntingRifle" />
+		<requirement type="Holding" id="gunRifleT1HuntingRifle" />
 		<objective type="ZombieKill" value="30" />
 		<reward type="Quest" id="rifleman_visit_trader" />
 	</quest>
@@ -223,14 +222,14 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammo762mmBulletBall" value="150" />
-		<reward type="Item" id="meleeToolKnifeIronSchematic" value="1" />
-		<reward type="Item" id="meleeToolKnifeIron" value="1" />
+		<reward type="Item" id="meleeWpnBladeT1HuntingKnifeSchematic" value="1" />
+		<reward type="Item" id="meleeWpnBladeT1HuntingKnife" value="1" />
 		<reward type="Quest" id="challenge_rifleman2" />				
 	</quest>
 	
 	<quest id="challenge_rifleman2" group_name_key="quest_rifleman" name="Rifleman Quest 2/3" subtitle="Rifleman Challenge 2" description="Snipe some zombies" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="A true rifleman must know his weapon inside and out.  Keep killing zombies until you've mastered your weapon.  " difficulty="Medium">
-		<requirement type="Holding" id="meleeToolKnifeIron" />
+		<requirement type="Holding" id="meleeWpnBladeT1HuntingKnife" />
 		<objective type="ZombieKill" value="50" />
 		<reward type="Quest" id="rifleman_visit_trader2" />
 	</quest>
@@ -251,15 +250,15 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="gunPistolSchematic" value="1" />
-		<reward type="Item" id="gunPistol" value="1" />
+		<reward type="Item" id="gunHandgunT1PistolSchematic" value="1" />
+		<reward type="Item" id="gunHandgunT1Pistol" value="1" />
 		<reward type="Item" id="ammo9mmBulletBall" value="150" />
 		<reward type="Quest" id="challenge_rifleman3" />
 	</quest>
 	
 	<quest id="challenge_rifleman3" group_name_key="quest_rifleman" name="Rifleman Quest 3/3" subtitle="Rifleman Challenge 3" description="Snipe some zombies" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="A master with the rifle shares an unspoken bond.  Show your mastery and slaughter some zombies." difficulty="Hard">
-		<requirement type="Holding" id="gunPistol" />
+		<requirement type="Holding" id="gunHandgunT1Pistol" />
 		<objective type="ZombieKill" value="100" />
 		<reward type="Quest" id="rifleman_visit_trader3" />
 	</quest>
@@ -293,7 +292,7 @@
 	<!-- GUNMAN -->
 	<quest id="challenge_gunman1" group_name_key="quest_gunman" name="Gunman Quest" subtitle="Gunman Challenge" description="Waste some zombies" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="A gunman likes to look his target in the eye....before blowing it out the back of his skull.  Prove your skills on some zombies." difficulty="easy">
-		<requirement type="Holding" id="gunPistol" />
+		<requirement type="Holding" id="gunHandgunT1Pistol" />
 		<objective type="ZombieKill" value="25" />
 		<reward type="Quest" id="gunman_visit_trader" />
 	</quest>
@@ -315,15 +314,15 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammo9mmBulletBall" value="50" />
-		<reward type="Item" id="gunCrossbowIronSchematic" value="1" />
-		<reward type="Item" id="gunCrossbowCompound" value="1" />
+		<reward type="Item" id="gunBowT1IronCrossbowSchematic" value="1" />
+		<reward type="Item" id="gunBowT1IronCrossbow" value="1" />
 		<reward type="Item" id="ammoCrossbowBoltIron" value="150" />
 		<reward type="Quest" id="challenge_gunman2" />				
 	</quest>
 	
 	<quest id="challenge_gunman2" group_name_key="quest_gunman" name="Gunman Quest 2/3" subtitle="Gunman Challenge 2" description="Waste some zombies" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="A true gunman lives for the smell of cordite, don't stop killing those Z's until I tell you.  " difficulty="Medium">
-		<requirement type="Holding" id="gunCrossbowCompound" />
+		<requirement type="Holding" id="gunBowT1IronCrossbow" />
 		<objective type="ZombieKill" value="50" />
 		<reward type="Quest" id="gunman_visit_trader2" />
 	</quest>
@@ -344,15 +343,15 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="gunSMG5Schematic" value="1" />
-		<reward type="Item" id="gunSMG5" value="1" />
+		<reward type="Item" id="gunHandgunT3SMG5Schematic" value="1" />
+		<reward type="Item" id="gunHandgunT3SMG5" value="1" />
 		<reward type="Item" id="ammo9mmBulletHP" value="250" />
 		<reward type="Quest" id="challenge_gunman3" />
 	</quest>
 	
 	<quest id="challenge_gunman3" group_name_key="quest_gunman" name="Gunman Quest 3/3" subtitle="Gunman Challenge 3" description="Waste some zombies" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="The pistol, an American classic.  Everyone should own at least one.  Make sure to put yours to good use." difficulty="Hard">
-		<requirement type="Holding" id="gunSMG5" />
+		<requirement type="Holding" id="gunHandgunT3SMG5" />
 		<objective type="ZombieKill" value="80" />
 		<reward type="Quest" id="gunman_visit_trader3" />
 	</quest>
@@ -387,7 +386,7 @@
 	<!-- VETERAN -->
 	<quest id="challenge_veteran1" group_name_key="quest_veteran" name="Veteran Quest" subtitle="Veteran Challenge" description="Eliminate Zed's" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="You've survived IED's and MRE's, what are a few zombies?" difficulty="easy">
-		<requirement type="Holding" id="gunCrossbowCompound" />
+		<requirement type="Holding" id="gunBowT3CompoundCrossbow" />
 		<objective type="ZombieKill" value="30" />
 		<reward type="Quest" id="veteran_visit_trader" />
 	</quest>
@@ -409,15 +408,15 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammoCrossbowBoltIron" value="50" />
-		<reward type="Item" id="gun44MagnumSchematic" value="1" />
-		<reward type="Item" id="gun44Magnum" value="1" />
+		<reward type="Item" id="gunHandgunT2Magnum44Schematic" value="1" />
+		<reward type="Item" id="gunHandgunT2Magnum44" value="1" />
 		<reward type="Item" id="ammo44MagnumBulletBall" value="150" />
 		<reward type="Quest" id="challenge_veteran2" />				
 	</quest>
 	
 	<quest id="challenge_veteran2" group_name_key="quest_veteran" name="Veteran Quest 2/3" subtitle="Veteran Challenge 2" description="Eliminate Zed's" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="The feel of gunning down a mob of zombies with a hail of hot lead, nothing feels better.  " difficulty="Medium">
-		<requirement type="Holding" id="gun44Magnum" />
+		<requirement type="Holding" id="gunHandgunT2Magnum44" />
 		<objective type="ZombieKill" value="50" />
 		<reward type="Quest" id="veteran_visit_trader2" />
 	</quest>
@@ -438,15 +437,15 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="gunPumpShotgunSchematic" value="1" />
-		<reward type="Item" id="gunPumpShotgun" value="1" />
+		<reward type="Item" id="gunShotgunT2PumpShotgunSchematic" value="1" />
+		<reward type="Item" id="gunShotgunT2PumpShotgun" value="1" />
 		<reward type="Item" id="ammoShotgunShell" value="250" />
 		<reward type="Quest" id="challenge_veteran3" />
 	</quest>
 	
 	<quest id="challenge_veteran3" group_name_key="quest_veteran" name="Veteran Quest 3/3" subtitle="Veteran Challenge 3" description="Eliminate Zed's" icon="ui_game_symbol_rifle" 
 		repeatable="false" category_key="challenge" offer="Show those zombie's whose boss, treat em to a lead enema." difficulty="Hard">
-		<requirement type="Holding" id="gunPumpShotgun" />
+		<requirement type="Holding" id="gunShotgunT2PumpShotgun" />
 		<objective type="ZombieKill" value="100" />
 		<reward type="Quest" id="veteran_visit_trader3" />
 	</quest>
@@ -507,7 +506,7 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="meleeToolSteelSetSchematic" value="1" />
-		<reward type="Item" id="meleeToolPickaxeSteel" value="1" />
+		<reward type="Item" id="meleeToolPickT2SteelPickaxe" value="1" />
 		<reward type="Item" id="thrownDynamiteSchematic" value="1" />
 		<reward type="Item" id="thrownDynamite" value="5" />
 		<reward type="Quest" id="challenge_miner2" />				
@@ -569,8 +568,8 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="300"/>
-		<reward type="Item" id="meleeToolAugerSchematic" value="1"/>
-		<reward type="Item" id="meleeToolAuger" value="1" />
+		<reward type="Item" id="meleeToolPickT3AugerSchematic" value="1"/>
+		<reward type="Item" id="meleeToolPickT3Auger" value="1" />
 		<reward type="Item" id="toolBellowsSchematic" count="1" />
 		<reward type="Item" id="toolForgeCrucibleSchematic" count="1" />
 		<reward type="Item" id="toolAnvilSchematic" count="1" />
@@ -590,7 +589,7 @@
 	<!-- SURVIVOR -->
 	<quest id="challenge_survivor1" group_name_key="quest_survivor" name="Survivor Quest" subtitle="Survivor Challenge" description="Thin out some zombies." icon="ui_game_symbol_campfire" 
 		repeatable="false" category_key="challenge" offer="A survivor knows how to be silent when needed.  Go kill some zombies without being heard." difficulty="easy">
-		<requirement type="Holding" id="meleeToolKnifeIron" />
+		<requirement type="Holding" id="meleeWpnBladeT1HuntingKnife" />
 		<objective type="ZombieKill" value="15" phase="1" />
 		<reward type="Quest" id="survivor_visit_trader" />
 	</quest>
@@ -612,13 +611,15 @@
 				</objective>
 				<reward type="Exp" value="100"/>
 				<reward type="Item" id="ammoArrowIron" value="100" />
-				<reward type="Item" id="campfire" value="2" />
+				<reward type="Item" id="campfire" value="1" />
+				<reward type="Item" id="gunBowT0PrimitiveBow" value="1" />
+				<reward type="Item" id="ammoArrowStone" value="50" />
 				<reward type="Quest" id="challenge_survivor2" />				
 	</quest>
 	
 	<quest id="challenge_survivor2" group_name_key="quest_survivor" name="Survivor Quest 2/3" subtitle="Survivor Challenge 2" description="Thin out some zombies." icon="ui_game_symbol_campfire" 
 		repeatable="false" category_key="challenge" offer="You're a pretty decent shot, but can you keep it up?" difficulty="Medium">
-		<requirement type="Holding" id="gunBowPrimitive" />
+		<requirement type="Holding" id="gunBowT0PrimitiveBow" />
 		<objective type="ZombieKill" value="30" phase="1" />
 		<reward type="Quest" id="survivor_visit_trader2" />
 	</quest>
@@ -639,8 +640,8 @@
 					<property name="phase" value="3" />
 				</objective>
 				<reward type="Exp" value="200" phase="1" />
-				<reward type="Item" id="gunPistolSchematic" value="1" />
-				<reward type="Item" id="gunPistol" value="1" />
+				<reward type="Item" id="gunHandgunT1PistolSchematic" value="1" />
+				<reward type="Item" id="gunHandgunT1Pistol" value="1" />
 				<reward type="Item" id="ammo9mmBulletBall" value="150" />
 				<reward type="Item" id="ammoArrowIron" value="70" />
 				<reward type="Quest" id="challenge_survivor3" />
@@ -648,7 +649,7 @@
 	
 	<quest id="challenge_survivor3" group_name_key="quest_survivor" name="Survivor Quest 3/3" subtitle="Survivor Challenge 3" description="Thin out some zombies." icon="ui_game_symbol_campfire" 
 		repeatable="false" category_key="challenge" offer="Your starting to impress us, this is your last test.  " difficulty="Hard">
-		<requirement type="Holding" id="gunPistol" />
+		<requirement type="Holding" id="gunHandgunT1Pistol" />
 		<objective type="ZombieKill" value="60" phase="1" />
 		<reward type="Quest" id="survivor_visit_trader3" />
 	</quest>
@@ -683,7 +684,7 @@
 	<!-- BRUISER -->
 	<quest id="challenge_bruiser1" group_name_key="quest_bruiser" name="Bruiser Quest" subtitle="Bruiser Challenge" description="Bust zombie skulls" icon="ui_game_symbol_club" 
 		repeatable="false" category_key="challenge" offer="Hulk smash..." difficulty="easy">
-		<requirement type="Holding" id="meleeKnucklesSteel" />
+		<requirement type="Holding" id="meleeWpnKnucklesT3SteelKnuckles" />
 		<objective type="ZombieKill" value="15" />
 		<reward type="Quest" id="bruiser_visit_trader" />
 	</quest>
@@ -704,14 +705,14 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="100"/>
-		<reward type="Item" id="meleeClubIronSchematic" value="1" />
-		<reward type="Item" id="meleeClubIron" value="1" />
+		<reward type="Item" id="perkBatterUpBaseballBats" value="1" />
+		<reward type="Item" id="meleeWpnClubT1BaseballBat" value="1" />
 		<reward type="Quest" id="challenge_bruiser2" />				
 	</quest>
 	
 	<quest id="challenge_bruiser2" group_name_key="quest_bruiser" name="Bruiser Quest 2/3" subtitle="Bruiser Challenge 2" description="Bust zombie skulls" icon="ui_game_symbol_club" 
 		repeatable="false" category_key="challenge" offer="Break some zombie skulls.  " difficulty="Medium">
-		<requirement type="Holding" id="meleeClubIron" />
+		<requirement type="Holding" id="meleeWpnClubT1BaseballBat" />
 		<objective type="ZombieKill" value="30" />
 		<reward type="Quest" id="bruiser_visit_trader2" />
 	</quest>
@@ -732,14 +733,14 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="gunBlunderbuss" value="1" />
+		<reward type="Item" id="gunShotgunT0Blunderbuss" value="1" />
 		<reward type="Item" id="ammoBlunderbuss" value="200" />
 		<reward type="Quest" id="challenge_bruiser3" />
 	</quest>
 	
 	<quest id="challenge_bruiser3" group_name_key="quest_bruiser" name="Bruiser Quest 3/3" subtitle="Bruiser Challenge 3" description="Bust zombie skulls" icon="ui_game_symbol_club" 
 		repeatable="false" category_key="challenge" offer="Crack some noggins." difficulty="Hard">
-		<requirement type="Holding" id="gunBlunderbuss" />
+		<requirement type="Holding" id="gunShotgunT0Blunderbuss" />
 		<objective type="ZombieKill" value="100" />
 		<reward type="Quest" id="bruiser_visit_trader3" />
 	</quest>
@@ -799,8 +800,8 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="100"/>
-		<reward type="Item" id="gunPistolSchematic" value="1" />
-		<reward type="Item" id="gunPistol" value="1" />
+		<reward type="Item" id="gunHandgunT3DesertVultureSchematic" value="1" />
+		<reward type="Item" id="gunHandgunT3DesertVulture" value="1" />
 		<reward type="Item" id="ammo9mmBulletBall" value="80" />
 		<reward type="Quest" id="challenge_medic2" />				
 	</quest>
@@ -974,7 +975,7 @@
 	<!-- ENGINEER -->
 	<quest id="challenge_Engineer1" group_name_key="quest_Engineer" name="Engineer Quest" subtitle="Engineer Challenge" description="Engineer!!!!!" icon="ui_game_symbol_safe" 
 		repeatable="false" category_key="challenge" offer="WE all start somewhere. Go craft a Stone Axe" difficulty="easy">
-		<objective type="Craft" id="meleeToolStoneAxe" value="1" />
+		<objective type="Craft" id="meleeToolRepairT0StoneAxe" value="1" />
 		<reward type="Quest" id="engineer_visit_trader" />
 	</quest>
 	
@@ -995,14 +996,14 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammo9mmBulletBall" value="100"/>
-		<reward type="Item" id="gunJunkTurretSchematic" value="1"/>
+		<reward type="Item" id="gunBotT2JunkTurretSchematic" value="1"/>
 		<reward type="Quest" id="challenge_engineer2" />				
 	</quest>
 	
 	<quest id="challenge_Engineer2" group_name_key="quest_Engineer" name="Engineer Quest 2/3" subtitle="Engineer Challenge 2" description="Engineer!!!!!" icon="ui_game_symbol_safe" 
 		repeatable="false" category_key="challenge" offer="Keeping yourself is very important.  Make a junk turret." difficulty="Medium">
-		<objective type="Craft" id="gunJunkTurret" value="1" />
-		<objective type="Craft" id="ammoJunkTurret" value="5" />
+		<objective type="Craft" id="gunBotT2JunkTurret" value="1" />
+		<objective type="Craft" id="ammoJunkTurretRegular" value="5" />
 		<reward type="Quest" id="engineer_visit_trader2" />
 	</quest>
 	
@@ -1074,7 +1075,7 @@
 	<!-- FARMER -->
 	<quest id="challenge_Farmer1" group_name_key="quest_Farmer" name="Medic Farmer" subtitle="Farmer Challenge" description="Farmer!!!!!" icon="ui_game_symbol_shopping_cart" 
 		repeatable="false" category_key="challenge" offer="Start your farmers life.  Go craft necessary tools" difficulty="easy">
-		<objective type="Craft" id="meleeToolShovelStone" value="1" />
+		<objective type="Craft" id="meleeToolShovelT0StoneShovel" value="1" />
 		<reward type="Quest" id="farmer_visit_trader" />
 	</quest>
 	
@@ -1095,13 +1096,13 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammo9mmBulletBall" value="100"/>
-		<reward type="Item" id="meleeToolHoeIronSchematic" value="1"/>
+		<reward type="Item" id="meleeToolFarmT1IronHoeSchematic" value="1"/>
 		<reward type="Quest" id="challenge_farmer2" />				
 	</quest>
 	
 	<quest id="challenge_Farmer2" group_name_key="quest_Farmer" name="Farmer Quest 2/3" subtitle="Farmer Challenge 2" description="Farmer!!!!!" icon="ui_game_symbol_shopping_cart" 
 		repeatable="false" category_key="challenge" offer="Keeping your wound's clean is very important.  Make sure to disinfect." difficulty="Medium">
-		<objective type="Craft" id="meleeToolHoeIron" value="1" />
+		<objective type="Craft" id="meleeToolFarmT1IronHoe" value="1" />
 		<reward type="Quest" id="farmer_visit_trader2" />
 	</quest>
 	
@@ -1121,15 +1122,15 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="meleeToolKnifeMacheteSchematic" value="1"/>
-		<reward type="Item" id="meleeToolKnifeMachete" value="1"/>
-		<reward type="Item" id="meleeToolChainsawSchematic" value="1"/>
+		<reward type="Item" id="meleeWpnBladeT3MacheteSchematic" value="1"/>
+		<reward type="Item" id="meleeWpnBladeT3Machete" value="1"/>
+		<reward type="Item" id="meleeToolAxeT3ChainsawSchematic" value="1"/>
 		<reward type="Quest" id="challenge_farmer3" />
 	</quest>
 	
 	<quest id="challenge_Farmer3" group_name_key="quest_Farmer" name="Farmer Quest 3/3" subtitle="Farmer Challenge 3" description="Farmer!!!!!" icon="ui_game_symbol_shopping_cart" 
 		repeatable="false" category_key="challenge" offer="First aid kit's will save your life, go craft a ton of em." difficulty="Hard">
-		<objective type="Craft" id="meleeToolChainsaw" value="1" />
+		<objective type="Craft" id="meleeToolAxeT3Chainsaw" value="1" />
 		<reward type="Quest" id="farmer_visit_trader3" />
 	</quest>
 	
@@ -1292,7 +1293,7 @@
 	<!-- MACHINE GUNNER -->
 	<quest id="challenge_Machine Gunner1" group_name_key="quest_Machine Gunner" name="Machine Gunner Quest" subtitle="Machine Gunner Challenge" description="Machine Gunner!!!!!" icon="ui_game_symbol_muscle" 
 		repeatable="false" category_key="challenge" offer="The Apocalypse need heavy tactics.  Go craft a knife" difficulty="easy">
-		<objective type="Craft" id="meleeToolKnifeBone" value="10" />
+		<objective type="Craft" id="meleeWpnBladeT0BoneKnife" value="10" />
 		<reward type="Quest" id="machine gunner_visit_trader" />
 	</quest>
 	
@@ -1313,16 +1314,16 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammo762mmBulletBall" value="100"/>
-		<reward type="Item" id="meleeToolKnifeIronSchematic" value="1"/>
-		<reward type="Item" id="meleeKnucklesSteelSchematic" value="1"/>
-		<reward type="Item" id="gunPistolSchematic" value="1"/>
+		<reward type="Item" id="meleeWpnBladeT1HuntingKnifeSchematic" value="1"/>
+		<reward type="Item" id="meleeWpnKnucklesT3SteelKnucklesSchematic" value="1"/>
+		<reward type="Item" id="gunHandgunT1PistolSchematic" value="1"/>
 		<reward type="Quest" id="challenge_machine gunner2" />				
 	</quest>
 	
 	<quest id="challenge_Machine Gunner2" group_name_key="quest_Machine Gunner" name="Machine Gunner Quest 2/3" subtitle="Machine Gunner Challenge 2" description="Machine Gunner!!!!!" icon="ui_game_symbol_muscle" 
 		repeatable="false" category_key="challenge" offer="When things get tough the tough get tougher. Craft Steel Knuckles and a real knife." difficulty="Medium">
-		<objective type="Craft" id="meleeKnucklesSteel" value="1" />
-		<objective type="Craft" id="meleeToolKnifeIron" value="1" />
+		<objective type="Craft" id="meleeWpnKnucklesT3SteelKnuckles" value="1" />
+		<objective type="Craft" id="meleeWpnBladeT1HuntingKnife" value="1" />
 		<reward type="Quest" id="machine gunner_visit_trader2" />
 	</quest>
 	
@@ -1350,7 +1351,7 @@
 	
 	<quest id="challenge_Machine Gunner3" group_name_key="quest_Machine Gunner" name="Machine Gunner Quest 3/3" subtitle="Machine Gunner Challenge 3" description="Machine Gunner!!!!!" icon="ui_game_symbol_muscle" 
 		repeatable="false" category_key="challenge" offer="The big and the bad. Craft a pistol  " difficulty="Hard">
-		<objective type="Craft" id="gunPistol" value="1" />
+		<objective type="Craft" id="gunHandgunT1Pistol" value="1" />
 		<reward type="Quest" id="machine gunner_visit_trader3" />
 	</quest>
 	
@@ -1412,13 +1413,13 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammo9mmBulletBall" value="100"/>
-		<reward type="Item" id="meleeStunBatonSchematic" value="1"/>
+		<reward type="Item" id="meleeWpnBatonT2StunBatonSchematic" value="1"/>
 		<reward type="Quest" id="challenge_marine2" />				
 	</quest>
 	
 	<quest id="challenge_Marine2" group_name_key="quest_Marine" name="Marine Quest 2/3" subtitle="Marine Challenge 2" description="Marine!!!!!" icon="ui_game_symbol_marksmanship" 
 		repeatable="false" category_key="challenge" offer="Crowd control. Craft a stun Baton." difficulty="Medium">
-		<objective type="Craft" id="meleeStunBaton" value="1" />
+		<objective type="Craft" id="meleeWpnBatonT2StunBaton" value="1" />
 		<reward type="Quest" id="marine_visit_trader2" />
 	</quest>
 	
@@ -1439,13 +1440,13 @@
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
 		<reward type="Item" id="modGunSoundSuppressorSilencerSchematic" value="1"/>
-		<reward type="Item" id="gunPistolSchematic" value="1"/>
+		<reward type="Item" id="gunHandgunT1PistolSchematic" value="1"/>
 		<reward type="Quest" id="challenge_marine3" />
 	</quest>
 	
 	<quest id="challenge_Marine3" group_name_key="quest_Marine" name="Marine Quest 3/3" subtitle="Marine Challenge 3" description="Marine!!!!!" icon="ui_game_symbol_marksmanship" 
 		repeatable="false" category_key="challenge" offer="Mass extinction. craft a pistol and silencer" difficulty="Hard">
-		<objective type="Craft" id="gunPistol" value="1" />
+		<objective type="Craft" id="gunHandgunT1Pistol" value="1" />
 		<objective type="Craft" id="modGunSoundSuppressorSilencer" value="1" />
 		<reward type="Quest" id="marine_visit_trader3" />
 	</quest>
@@ -1466,8 +1467,8 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="300"/>
-		<reward type="Item" id="gunRocketLauncherSchematic" value="1"/>
-		<reward type="Item" id="gunRocketLauncher" value="1"/>
+		<reward type="Item" id="gunExplosivesT3RocketLauncherSchematic" value="1"/>
+		<reward type="Item" id="gunExplosivesT3RocketLauncher" value="1"/>
 		<reward type="Item" id="ammoRocketHE" value="25"/>
 		<reward type="Item" id="thrownGrenade" value="5"/>
 		<reward type="Item" id="bookLuckyLooterAmmunition" count="1" />
@@ -1493,7 +1494,7 @@
 	<!-- ASSASSIN -->
 	<quest id="challenge_Assassin1" group_name_key="quest_Assassin" name="Assassin Quest" subtitle="Assassin Challenge" description="Assassin!!!!!" icon="ui_game_symbol_stealth" 
 		repeatable="false" category_key="challenge" offer="Silence is the key.  Go craft a melee weapon" difficulty="easy">
-		<objective type="Craft" id="meleeToolKnifeIron" value="1" />
+		<objective type="Craft" id="meleeWpnBladeT1HuntingKnife" value="1" />
 		<reward type="Quest" id="assassin_visit_trader" />
 	</quest>
 	
@@ -1514,13 +1515,13 @@
 		</objective>
 		<reward type="Exp" value="100"/>
 		<reward type="Item" id="ammoCrossbowBoltSteelAP" value="100"/>
-		<reward type="Item" id="gunCrossbowCompoundSchematic" count="1" />
+		<reward type="Item" id="gunBowT3CompoundCrossbowSchematic" count="1" />
 		<reward type="Quest" id="challenge_assassin2" />				
 	</quest>
 	
 	<quest id="challenge_Assassin2" group_name_key="quest_Assassin" name="Assassin Quest 2/3" subtitle="Assassin Challenge 2" description="Medic!!!!!" icon="ui_game_symbol_stealth" 
 		repeatable="false" category_key="challenge" offer="Silent but deadly. Craft a Compound Crossbow." difficulty="Medium">
-		<objective type="Craft" id="gunCrossbowCompound" value="1" />
+		<objective type="Craft" id="gunBowT3CompoundCrossbow" value="1" />
 		<reward type="Quest" id="assassin_visit_trader2" />
 	</quest>
 	
@@ -1540,7 +1541,7 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="200" phase="1" />
-		<reward type="Item" id="gunPistolSchematic" value="1"/>
+		<reward type="Item" id="gunHandgunT1PistolSchematic" value="1"/>
 		<reward type="Item" id="modGunSoundSuppressorSilencerSchematic" value="1"/>
 		<reward type="Item" id="ammo9mmBulletBall" value="100"/>
 		<reward type="Quest" id="challenge_assassin3" />
@@ -1548,7 +1549,7 @@
 	
 	<quest id="challenge_Assassin3" group_name_key="quest_Assassin" name="Assassin Quest 3/3" subtitle="Assassin Challenge 3" description="Medic!!!!!" icon="ui_game_symbol_stealth" 
 		repeatable="false" category_key="challenge" offer="Distance can be key to stealth.  Craft a Pistol and Silencer." difficulty="Hard">
-		<objective type="Craft" id="gunPistol" value="1" />
+		<objective type="Craft" id="gunHandgunT1Pistol" value="1" />
 		<objective type="Craft" id="modGunSoundSuppressorSilencer" value="1" />
 		<reward type="Quest" id="assassin_visit_trader3" />
 	</quest>
@@ -1569,12 +1570,12 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="300"/>
-		<reward type="Item" id="gunMR10Schematic" value="1"/>
-		<reward type="Item" id="gunMR10" value="1"/>
+		<reward type="Item" id="gunRifleT2MarksmanRifleSchematic" value="1"/>
+		<reward type="Item" id="gunRifleT2MarksmanRifle" value="1"/>
 		<reward type="Item" id="resourceLockPick" value="25"/>
-		<reward type="Item" id="meleeToolKnifeIron" value="1"/>
-		<reward type="Item" id="meleeClubIronSchematic" value="25"/>
-		<reward type="Item" id="meleeClubIron" value="1"/>
+		<reward type="Item" id="meleeWpnBladeT1HuntingKnife" value="1"/>
+		<reward type="Item" id="perkBatterUpBaseballBats" value="25"/>
+		<reward type="Item" id="meleeWpnClubT3SteelClub" value="1"/>
 		<reward type="Item" id="bookFiremansAlmanacSpeed" count="1" />
 		<reward type="Item" id="bookNightStalkerStealthDamage" count="1" />
 		<reward type="Item" id="bookNightStalkerSilentNight" count="1" />
