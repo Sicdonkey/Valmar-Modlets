@@ -27,7 +27,7 @@
         <property name="Group" value="Tools/Traps" />
     </block>
     <block name="trapAdhesiveKnockdown">
-		<property name="CustomIcon" value="scrapIronFrameCTRPlate"/>
+		<property name="CustomIcon" value="trapAdhesiveSpike"/>
 		<property name="CustomIconTint" value="4040ff"/>
         <property name="DescriptionKey" value="trapAdhesiveKnockdownDesc"/>
        <property name="Material" value="MbarbedFence" />
@@ -44,7 +44,7 @@
         <drop event="Fall" count="0"/>
     </block>
 	 <block name="trapAdhesiveShocked">
-		<property name="CustomIcon" value="scrapIronFrameCTRPlate"/>
+		<property name="CustomIcon" value="trapAdhesiveSpike"/>
 		<property name="CustomIconTint" value="4040ff"/>
         <property name="DescriptionKey" value="trapAdhesiveDesc"/>
        <property name="Material" value="MbarbedFence" />
@@ -61,7 +61,7 @@
         <drop event="Fall" count="0"/>
     </block>
 	 <block name="trapAdhesiveBurning">
-		<property name="CustomIcon" value="scrapIronFrameCTRPlate"/>
+		<property name="CustomIcon" value="trapAdhesiveSpike"/>
 		<property name="CustomIconTint" value="4040ff"/>
         <property name="DescriptionKey" value="trapAdhesiveBurningDesc"/>
        <property name="Material" value="MbarbedFence" />
@@ -78,7 +78,7 @@
         <drop event="Fall" count="0"/>
     </block>
 	 <block name="trapAdhesiveStunned">
-		<property name="CustomIcon" value="scrapIronFrameCTRPlate"/>
+		<property name="CustomIcon" value="trapAdhesiveSpike"/>
 		<property name="CustomIconTint" value="4040ff"/>
         <property name="DescriptionKey" value="trapAdhesiveStunnedDesc"/>
        <property name="Material" value="MbarbedFence" />
