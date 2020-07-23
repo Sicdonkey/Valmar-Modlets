@@ -10,6 +10,9 @@
         <property name="Material" value="Mpaper" />
         <property name="Weight" value="1" />
         <property name="Stacknumber" value="5000" />
+		<property name="EconomicValue" value="10"/>
+		<property name="EconomicBundleSize" value="150"/>
+		<property name="SellableToTrader" value="true"/>
         <property name="FuelValue" value="20" />
         <property name="Group" value="Survival" />
     </item>
