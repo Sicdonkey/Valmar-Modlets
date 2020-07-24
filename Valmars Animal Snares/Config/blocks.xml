@@ -13,7 +13,7 @@
 	<property name="IsTerrainDecoration" value="true"/>
     <property name="Class" value="UpgradeRated" />
     <property name="UpgradeRated.ToBlock" value="chickenCoop2" />
-    <property name="UpgradeRated.Rate" value="63" />
+    <property name="UpgradeRated.Rate" value="3" />
     <property class="RepairItems">
         <property name="wood" value="10" />
     </property>
@@ -33,7 +33,7 @@
     <property class="PlantGrowing">
     <property name="FertileLevel" value="0" />
     <property name="Next" value="chickenNest" />
-    <property name="GrowthRate" value="63" />
+    <property name="GrowthRate" value="3" />
     <property name="LightLevelStay" value="0" />
     <property name="IsRandom" value="false" />
    <property name="IsGrowOnTopEnabled" value="false" />
@@ -68,7 +68,7 @@
         <property name="Place" value="TowardsPlacer" />
         <property name="Class" value="UpgradeRated" />
         <property name="UpgradeRated.ToBlock" value="animalbaitedsnare" />
-        <property name="UpgradeRated.Rate" value="63" />
+        <property name="UpgradeRated.Rate" value="2" />
     </block>
     <block name="animalbaitedsnare">
     <property name="LightOpacity" value="0"/>
@@ -81,8 +81,8 @@
         <property name="Class" value="PlantGrowing" />
         <property class="PlantGrowing">
         <property name="Next" value="BaitedSnareCaptured" />
-        <property name="GrowthRate" value="63" />
-        <property name="FertileLevel" value="1" />
+        <property name="GrowthRate" value="2" />
+        <property name="FertileLevel" value="0" />
         <property name="IsRandom" value="false" />
         </property>
     </block>

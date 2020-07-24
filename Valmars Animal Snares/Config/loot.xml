@@ -1,5 +1,5 @@
 <Valmar>
-<append xpath="/lootcontainers/lootgroup[@name='booksRareOnlyScaled']">	
+<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']">	
 		<item name="recipebookAnimalTraps" count="1" />
 </append>
 <insertAfter xpath="/lootcontainers/lootgroup[@name='groupBirdNestMain']">
@@ -18,16 +18,23 @@
         <item name="foodRawMeat" count="1"/>
         <item name="resourceFeather" count="3,5"/> 
         <item name="foodEgg" count="1,2" />
+		  <item name="resourceBone" count="1,2" />
+    </lootgroup>
+	<lootgroup name="CapturedRabbit" count="all">
+        <item name="foodRawMeat" count="1"/>
+        <item name="resourceFeather" count="3,5"/> 
+        <item name="resourceBone" count="1,2" />
     </lootgroup>
 	</insertAfter>
 	<append xpath="/lootcontainers">
-<lootcontainer id="425" count="1,3" size="4,3" destroy_on_close="true" sound_open="UseActions/open_garbage" sound_close="UseActions/close_garbage" loot_quality_template="qualBaseTemplate">
+<lootcontainer id="425" count="1,3" size="8,9" destroy_on_close="true" sound_open="UseActions/open_garbage" sound_close="UseActions/close_garbage" loot_quality_template="qualBaseTemplate">
     <item name="foodEgg" count="1,2" prob="0.25" />
+	<item group="CapturedBird" />
     <item name="resourceFeather" count="4,10" prob="0.75" />
 </lootcontainer>
-    <lootcontainer id="426" count="1" size="3,1" destroy_on_close="true" sound_open="UseActions/open_animal" sound_close="UseActions/close_animal" open_time="2.5" loot_quality_template="qualBaseTemplate">
+    <lootcontainer id="426" count="1" size="8,9" destroy_on_close="true" sound_open="UseActions/open_animal" sound_close="UseActions/close_animal" open_time="2.5" loot_quality_template="qualBaseTemplate">
         <item group="meat+hide" />
-        <item group="CapturedBird" />
+        <item group="CapturedRabbit" />
         <item group="bigmeat+hide" prob="0.3" />
     </lootcontainer>
 </append>
