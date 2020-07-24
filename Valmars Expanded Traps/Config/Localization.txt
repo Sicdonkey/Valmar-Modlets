@@ -1,4 +1,6 @@
 Key,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+trapSchematic,,items,Item,New,Trap Schematic,,,,,
+trapSchematicDesc,,items,Item,New,Teaches you how to craft the various traps.,,,,,
 trapFire,,blocks,Block,New,Fire Trap,,,,,
 trapFireDesc,,blocks,Block,New,This trap sets whatever walks over it on fire. When it goes out you can refill it using gasoline.,,,,,
 trapAdhesiveKnockdown,,blocks,Block,New,Adhesive Knockdown Trap,,,,,

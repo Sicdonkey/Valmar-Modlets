@@ -1,5 +1,8 @@
 <Valmar>
 <!-- LOOT GROUPS -->
+<append xpath="/lootcontainers/lootgroup[@name='booksAllScaled']" >
+	 <item name="trapSchematic" count="1,5" prob="0.18" />
+	</append>
 <append xpath="/lootcontainers/lootgroup[@name='workbenchLoot']" >
 	 <item name="trapGasCan" count="1,5" prob="0.18" />
 	</append>
@@ -14,6 +17,7 @@
 	</append>	
 <append xpath="/lootcontainers/lootgroup[@name='junk']" >
 	 <item name="trapGasCan" count="1" prob="0.18" />
+	 <item name="trapSchematic" count="1" prob="0.18" />
 	</append>
 <append xpath="/lootcontainers/lootgroup[@name='garbage']" >
 	 <item name="trapGasCan" count="1" prob="0.18" />
@@ -76,6 +80,7 @@
 		 <item name="minersTNT" count="1,3" prob="0.18" />
 		 <item name="trapSteelFireSpike" count="1,3" prob="0.18" />
 		 <item name="trapNailMine" count="1,3" prob="0.18" />
+		  <item name="trapSchematic" count="1" prob="0.18" />
 	</append>
 <append xpath="/lootcontainers/lootcontainer[@id='88']" >
 		 <item name="trapGasCan" count="1" prob="0.18" />
