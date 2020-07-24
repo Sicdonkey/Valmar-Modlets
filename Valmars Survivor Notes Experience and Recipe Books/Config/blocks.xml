@@ -1,7 +1,7 @@
 <Valmar>
 <append xpath="/blocks">
 	<block name="studyDesk">
-		<property name="CustomIcon" value="cntWoodDesk01Closed" />
+		<property name="CustomIcon" value="studyDesk" />
 		<property name="DescriptionKey" value="studyDeskDesc"/>
 		<property name="Material" value="Mwood_weak" />
 		<property name="Shape" value="Ext3dModel"/>

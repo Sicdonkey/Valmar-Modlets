@@ -2,8 +2,7 @@
 <append xpath="/items">
  <!--Survivor Note Mod-->   
     <item name="survivorNotes">
-        <property name="CustomIcon" value="resourcePaper" />
-        <property name="CustomIconTint" value="E30000" />
+        <property name="CustomIcon" value="SurvivorNotes2" />
         <property name="DescriptionKey" value="survivorNotesDesc"/>
         <property name="Meshfile" value="Items/Misc/paper" />
         <property name="HoldType" value="21" />
