@@ -380,7 +380,6 @@
 		<item name="modGunSoundSuppressorSilencerSchematic" count="1" />
         <item name="modGunSoundSuppressorSilencer" count="2" />
 		<item name="challengeClassMachineGunner" count="1"/>
-		<item name="perkMachineGunner" count="1"/>
 		
 		</lootgroup>
 		

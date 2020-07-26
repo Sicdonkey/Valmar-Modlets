@@ -199,8 +199,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
-
 <item name="perkWILDHunter">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -210,7 +208,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDRifleman">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -220,7 +217,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDVeteran">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -230,7 +226,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDSurvivor">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -240,7 +235,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDGunman">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -250,7 +244,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDMedic">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -260,7 +253,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDBruiser">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -270,7 +262,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDBuilder">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -280,7 +271,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDMiner">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -290,7 +280,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDMechanic">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -300,7 +289,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDEngineer">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -310,7 +298,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDFarmer">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -320,7 +307,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDTerrorist">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -330,7 +316,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDMachineGunner">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -340,7 +325,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWILDMarine">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -359,7 +343,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <item name="perkWildcard">
 	<property name="Extends" value="challengeQuestMaster"/>
 	<property name="CustomIcon" value="expGain"/>
@@ -387,7 +370,6 @@
 	</property>
 	<property name="Stacknumber" value="1"/>
 </item>
-
 <!-- Modded Quests -->
 <item name="challengeSticky">
 	<property name="Extends" value="challengeQuestMaster" />
@@ -450,7 +432,6 @@
 		<property name="QuestGiven" value="challenge_medic1" />
 	</property>
 </item>
-
 <item name="challengeClassMechanic">
 	<property name="Extends" value="challengeQuestMaster" />
 	<property class="Action0">
