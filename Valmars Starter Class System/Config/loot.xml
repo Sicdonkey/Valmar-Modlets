@@ -85,7 +85,7 @@
         <item name="medicalFirstAidBandage" count="1" />
         <item name="meleeToolRepairT0StoneAxe" count="1"  />
 		<item name="gunHandgunT3DesertVulture" count="1"  />
-		<item name="ammo9mmBulletBall" count="75"/>
+		<item name="ammo44MagnumBulletHP" count="75"/>
 		<item name="gunMGT2TacticalAR" count="1"  />
 		<item name="gunMGT2TacticalARSchematic" count="1"/>
 		<item name="ammo762mmBulletBall" count="40,100"/>	
@@ -196,11 +196,21 @@
 		</lootgroup>
 		
         <lootgroup name="MedicClass" count="all">
-        <item name="armorClothPants" mods=",modDyeRed" mod_chance="1" count="1" />
+       <!-- <item name="armorClothPants" mods="modDyeRed" mod_chance="1" count="1" />
 		<item name="armorClothJacket" mods="modDyeRed" mod_chance="1" count="1" />
 		<item name="armorClothBoots"  mods="modDyeRed" mod_chance="1" count="1" />
 		<item name="armorClothGloves" mods="modDyeRed" mod_chance="1" count="1" />
-		<item name="armorClothHat" mods="modDyeRed" mod_chance="1" count="1"  />
+		<item name="armorClothHat" mods="modDyeRed" mod_chance="1" count="1"  /> -->
+		<item name="armorClothPants" count="1" />
+		<item name="armorClothJacket" count="1" />
+		<item name="armorClothBoots"  count="1" />
+		<item name="armorClothGloves" count="1" />
+		<item name="armorClothHat" count="1" />
+		<item name="modDyeRed" count="1" />
+		<item name="modDyeRed" count="1" />
+		<item name="modDyeRed" count="1" />
+		<item name="modDyeRed" count="1" />
+		<item name="modDyeRed" count="1" />
 		<item name="resourceSewingKit" count="1,5" />
         <item name="drugPainkillers" count="8" />		
 		<item name="medicalAloeCream" count="2" />

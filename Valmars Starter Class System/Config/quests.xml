@@ -313,7 +313,7 @@
 		<property name="phase" value="3" />
 		</objective>
 		<reward type="Exp" value="100"/>
-		<reward type="Item" id="ammo9mmBulletBall" value="50" />
+		<reward type="Item" id="ammo44MagnumBulletBall" value="50" />
 		<reward type="Item" id="gunBowT1IronCrossbowSchematic" value="1" />
 		<reward type="Item" id="gunBowT1IronCrossbow" value="1" />
 		<reward type="Item" id="ammoCrossbowBoltIron" value="150" />
