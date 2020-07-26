@@ -408,9 +408,9 @@
 		<item name="thrownTimedCharge" count="2" />		
 		<item name="drugAntibiotics" count="2" />
         <item name="resourceRepairKit" count="2" />
+		<item name="gunHandgunT3SMG5" count="25" />
 		<item name="ammo9mmBulletBall" count="25" />
-		<item name="challengeClassMarine" count="1"/>
-		
+		<item name="challengeClassMarine" count="1"/>		
 		</lootgroup>
 		
 		<lootgroup name="AssassinClass" count="all">

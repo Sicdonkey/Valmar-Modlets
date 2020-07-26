@@ -12,43 +12,43 @@
 	</perk>
 
 	<perk name="Gun Pistol" icon="pistol" description_key="Learn how to assemble a pistol." title_key="Gun: Pistol" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="firearms">
-		<recipe name="gunPistol" unlock_level="1"/>
+		<recipe name="gunHandgunT1Pistol" unlock_level="1"/>
 		<recipe name="modGunSoundSuppressorSilencer" unlock_level="1"/>
 		</perk>
 	
 	<perk name="Gun Magnum" icon="pistol" description_key="Learn how to assemble a 44 Magnum." title_key="Gun: Magnum" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="20" group="firearms">
-		<recipe name="gun44Magnum" unlock_level="1"/>
+		<recipe name="gunHandgunT2Magnum44" unlock_level="1"/>
 		
 		</perk>
 
 	<perk name="Gun Hunting Rifle" icon="rifle" description_key="Learn how to assemble a hunting rifle." title_key="Gun: Hunting Rifle" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="15" group="firearms">
-		<recipe name="gunHuntingRifle" unlock_level="1"/>
+		<recipe name="gunRifleT1HuntingRifle" unlock_level="1"/>
 		</perk>
 	
 	<perk name="Gun Sniper Rifle" icon="rifle" description_key="Learn how to assemble a sniper rifle." title_key="Gun: Sniper Rifle" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="20" group="firearms">
-		<recipe name="gunMR10" unlock_level="1"/>
+		<recipe name="gunRifleT3SniperRifle" unlock_level="1"/>
 		<recipe name="modGunSoundSuppressorSilencer" unlock_level="1"/>
 		</perk>
 	
 	<perk name="Gun Shotgun" icon="shotgun" description_key="Learn how to assembly a shotgun." title_key="Gun: Shotguns" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="15" group="firearms">
-		<recipe name="gunPumpShotgun" unlock_level="1"/>
-		<recipe name="gunDoubleBarrelShotgun" unlock_level="1"/>
+		<recipe name="gunShotgunT2PumpShotgun" unlock_level="1"/>
+		<recipe name="gunShotgunT1DoubleBarrel" unlock_level="1"/>
 	</perk>
 	
 	<perk name="Gun AK47" icon="rifle" description_key="Learn how to assemble an AK47 Rifle." title_key="Gun: AK47" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="20" group="firearms">
-		<recipe name="gunAK47" unlock_level="1"/>
+		<recipe name="gunMGT1AK47" unlock_level="1"/>
 		<recipe name="modGunSoundSuppressorSilencer" unlock_level="1"/>
 		</perk>
 
 	<perk name="Gun Rocket" icon="rifle" description_key="Learn how to assemble a rocket launcher." title_key="Gun: Rocket Launcher" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="25" group="firearms">
-		<recipe name="gunRocketLauncher" unlock_level="1"/>
-		<recipe name="gunRocketLauncherParts" unlock_level="1"/>
+		<recipe name="gunExplosivesT3RocketLauncher" unlock_level="1"/>
+		<recipe name="gunExplosivesT3RocketLauncherParts" unlock_level="1"/>
 		<recipe name="resourceRocketCasing" unlock_level="1"/>
 		<recipe name="resourceRocketTip" unlock_level="1"/>
 	</perk>
 	
 	<perk name="Gun SMG" icon="rifle" description_key="Learn how to assemble a SMG." title_key="Gun: SMG" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="15" group="firearms">
-		<recipe name="gunSMG5" unlock_level="1"/>
+		<recipe name="gunHandgunT3SMG5" unlock_level="1"/>
 		<recipe name="modGunSoundSuppressorSilencer" unlock_level="1"/>
 	</perk>
 	
@@ -56,24 +56,24 @@
 		<recipe name="crossbow" unlock_level="1"/>
 		<requirement perk_level="2" required_skill_name="Archery" required_skill_level="30"/>
 		<requirement perk_level="3" required_skill_name="Archery" required_skill_level="50"/>
-		<recipe name="gunCrossbowIron" unlock_level="2"/>
-		<recipe name="gunCrossbowCompound" unlock_level="3"/>
+		<recipe name="gunBowT1IronCrossbow" unlock_level="2"/>
+		<recipe name="gunBowT3CompoundBow" unlock_level="3"/>
 	</perk>
 
 	<perk name="Compound Bow" icon="misc_crafting" description_key="Learn how to assemble a Compound Bow." title_key="Compound Bow" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="20" group="crafting">
-		<recipe name="gunBowCompound" unlock_level="1"/>
+		<recipe name="gunBowT3CompoundBow" unlock_level="1"/>
 	</perk>
 	
 	<perk name="Nailgun" icon="misc_crafting" description_key="Learn how to assemble a Nailgun." title_key="Nailgun" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="15" group="crafting">
-		<recipe name="gunToolNailgun" unlock_level="1"/>
+		<recipe name="meleeToolRepairT3Nailgun" unlock_level="1"/>
 	</perk>
 	
 	<perk name="Sledgehammer" icon="resource" description_key="Learn how to craft a sledgehammer." title_key="Sledgehammer" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="15" group="tools">
-		<recipe name="meleeToolSledgehammerIron" unlock_level="1"/>
+		<recipe name="meleeWpnSledgeT3SteelSledgehammer" unlock_level="1"/>
 	</perk>
 
 	<perk name="Hunting Knife" icon="knife" description_key="Learn how to craft a hunting knife." title_key="Hunting Knife" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="weapons">
-		<recipe name="meleeToolKnifeIron" unlock_level="1"/>
+		<recipe name="meleeWpnBladeT1HuntingKnife" unlock_level="1"/>
 	</perk>
 
 	<perk name="First Aid Kit" icon="run" description_key="Learn how to craft first aid kits." title_key="First Aid Kit" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="12" group="health">
@@ -147,13 +147,13 @@
 	<perk name="Skinning Knife" icon="knife" description_key="Learn how to craft a skinning knife. These knives are useful for getting extra hides from skinning animals." title_key="Skinning Knife" max_level="1" skill_point_cost_per_level="10" group="weapons">
 		<requirement perk_level="1" required_skill_name="Hunting Knife" required_skill_level="1"/>
 		<requirement perk_level="1" required_skill_name="Blade Weapons" required_skill_level="50"/>
-		<recipe name="meleeToolKnifeIron" unlock_level="1"/>
+		<recipe name="meleeWpnBladeT1HuntingKnife" unlock_level="1"/>
 	</perk>
 	
 	<perk name="Butcher Knife" icon="knife" description_key="Learn how to craft a butcher knife. These knives are useful for getting extra meat from animals." title_key="Butcher Knife" max_level="1" skill_point_cost_per_level="10" group="weapons">
 		<requirement perk_level="1" required_skill_name="Hunting Knife" required_skill_level="1"/>
 		<requirement perk_level="1" required_skill_name="Blade Weapons" required_skill_level="50"/>
-		<recipe name="meleeToolKnifeMachete" unlock_level="1"/>
+		<recipe name="meleeWpnBladeT3Machete" unlock_level="1"/>
 	</perk>	
 	</append>
 </Valmar>
