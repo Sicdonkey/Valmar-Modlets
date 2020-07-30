@@ -20,7 +20,7 @@
 	<property name="Group" value="Ammo/Weapons"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="PickupJournalEntry" value="alternateAmmoTip"/>
-	<property name="UnlockedBy" value="perkArchery,gunCrossbowIronSchematic"/>
+	<property name="UnlockedBy" value="perkArchery,gunBowT1IronCrossbowSchematic"/>
 	<property name="ShowQuality" value="true"/>
 	<property class="Action0">
 		<property name="Class" value="Launcher"/>
@@ -39,7 +39,7 @@
 		<property name="Zoom_max_out" value="55"/>
 		<property name="Zoom_max_in" value="55"/>
 	</property>
-	<effect_group name="gunCrossbowIron">
+	<effect_group name="ironCrossbow">
 		<passive_effect name="DamageFalloffRange" operation="base_set" value="25"/>
 		<passive_effect name="DamageFalloffRange" operation="perc_add" value="-.2,.2"/> <!-- random effective rng -->
 		<passive_effect name="MaxRange" operation="base_set" value="100"/>
@@ -100,7 +100,7 @@
 	<property name="Group" value="Ammo/Weapons"/>
 	<property name="RepairExpMultiplier" value="5.5"/>
 	<property name="PickupJournalEntry" value="alternateAmmoTip"/>
-	<property name="UnlockedBy" value="gunBowCompoundSchematic"/>
+	<property name="UnlockedBy" value="gunBowT3CompoundCrossbowSchematic"/>
 	<property name="ShowQuality" value="true"/>
 	<property class="Action0">
 		<property name="Class" value="Catapult"/>
@@ -126,7 +126,7 @@
 		<property name="Zoom_max_out" value="40"/>
 		<property name="Zoom_max_in" value="40"/>
 	</property>
-	<effect_group name="gunBowCompound">
+	<effect_group name="ironBow">
 		<passive_effect name="ProjectileVelocity" operation="perc_add" value=".2"/>
 		<passive_effect name="DamageFalloffRange" operation="base_set" value="30"/>
 		<passive_effect name="DamageFalloffRange" operation="perc_add" value="-.2,.2"/> <!-- random effective rng -->
@@ -174,7 +174,7 @@
         <property name="Extends" value="meleeToolAxeT1IronFireaxe"/>
 	<property name="Meshfile" value="#Other/Items?Weapons/Melee/Axe/fireaxePrefab.prefab"/>
 	<property name="EconomicValue" value="700"/>
-	<property name="UnlockedBy" value="meleeToolSteelSetSchematic"/>
+	<property name="UnlockedBy" value="meleeToolIronSetSchematic"/>
 	<property name="Material" value="MmeleeToolAllSteel"/> <property name="Weight" value="6"/>
 
 	<effect_group name="meleeToolFireaxeSteel">
@@ -268,7 +268,7 @@
 			<property name="Override0" value="organic" param1="metalgrazeorganic"/>
 		</property>
 	</property>
-	<effect_group name="meleeToolKnifeMachete">
+	<effect_group name="weedCleaver">
 		<passive_effect name="EntityDamage" operation="base_set" value="0"/>
 		<passive_effect name="BlockDamage" operation="base_set" value="1"/>
 		<passive_effect name="AttacksPerMinute" operation="base_set" value="500"/>

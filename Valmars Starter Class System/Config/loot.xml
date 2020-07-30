@@ -424,7 +424,7 @@
 		<item name="meleeWpnBladeT1HuntingKnife" count="1" />
 		<item name="gunBowT3CompoundBowSchematic" count="1" />
 		<item name="gunBowT3CompoundBow" count="1" />
-        <item name="ammoCrossbowBoltSteelAP" count="50,150" />
+        <item name="ammoArrowSteelAP" count="50,150" />
         <item group="cannedfood" count="5" />
 		<item name="drinkJarBoiledWater" count="5" />
         <item name="drugPainkillers" count="2" />
